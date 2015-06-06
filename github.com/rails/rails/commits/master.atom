@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/rails/rails/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/rails/rails/commits/master.atom"/>
+  <title>Recent Commits to rails:master</title>
+  <updated>2015-06-05T12:00:24+02:00</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/367395550627328fadf1e8143f65c4266984df2c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/367395550627328fadf1e8143f65c4266984df2c"/>
+    <title>
+        Merge pull request #20443 from teoljungberg/thoughtbot-capitalization
+    </title>
+    <updated>2015-06-05T12:00:24+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/350807?v=3&amp;s=30"/>
+    <author>
+      <name>kaspth</name>
+      <uri>https://github.com/kaspth</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #20443 from teoljungberg/thoughtbot-capitalization
+
+[ci skip] Fix `thoughtbot` capitalization&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cc849b609e3bac6cf6fc914df790486e9d373643</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/cc849b609e3bac6cf6fc914df790486e9d373643"/>
+    <title>
+        Fix `thoughtbot` capitalization
+    </title>
+    <updated>2015-06-05T11:29:03+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/810650?v=3&amp;s=30"/>
+    <author>
+      <name>teoljungberg</name>
+      <uri>https://github.com/teoljungberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Fix `thoughtbot` capitalization
+
+The company name is spelled `thoughtbot` per
+https://github.com/thoughtbot/presskit/blob/master/README.md#name&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/abe199b3899f9326a57ba77f93aaf9bf5eabfc49</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/abe199b3899f9326a57ba77f93aaf9bf5eabfc49"/>
+    <title>
+        Merge pull request #20429 from repinel/improve-bug-report-template
+    </title>
+    <updated>2015-06-04T22:11:43-03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/47848?v=3&amp;s=30"/>
+    <author>
+      <name>rafaelfranca</name>
+      <uri>https://github.com/rafaelfranca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #20429 from repinel/improve-bug-report-template
+
+[ci skip] Use inline Gemfile dependency when reporting bugs&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aefe1ef0e409ad23b4a970a8577b86fc9767716c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/aefe1ef0e409ad23b4a970a8577b86fc9767716c"/>
+    <title>
+        Merge pull request #20439 from jimmycuadra/require-as-duration
+    </title>
+    <updated>2015-06-04T21:55:21+01:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/833383?v=3&amp;s=30"/>
+    <author>
+      <name>arthurnn</name>
+      <uri>https://github.com/arthurnn</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #20439 from jimmycuadra/require-as-duration
+
+Require active_support/duration.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bb5ffb77ccf5771468e1807dfdb476ce70f51519</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/bb5ffb77ccf5771468e1807dfdb476ce70f51519"/>
+    <title>
+        Require active_support/duration.
+    </title>
+    <updated>2015-06-04T13:20:43-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/122457?v=3&amp;s=30"/>
+    <author>
+      <name>jimmycuadra</name>
+      <uri>https://github.com/jimmycuadra</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Require active_support/duration.
+
+ActiveSupport::TimeWithZone references `ActiveSupport::Duration` but
+does not require it, which can result in a `LoadError` when required
+directly without requiring a component less granular like
+`active_support/time`, where the autoload for `ActiveSupport::Duration`
+is set up.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7220ffcffd0085b3caee872102b3b28f3ca35c83</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/7220ffcffd0085b3caee872102b3b28f3ca35c83"/>
+    <title>
+        Merge pull request #20427 from ronakjangir47/http_path
+    </title>
+    <updated>2015-06-04T08:43:27+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5402?v=3&amp;s=30"/>
+    <author>
+      <name>senny</name>
+      <uri>https://github.com/senny</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #20427 from ronakjangir47/http_path
+
+Removed duplicate test cases for template execution&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ba37d5da060a71aebb9c8ba63e879360ed2023ab</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/ba37d5da060a71aebb9c8ba63e879360ed2023ab"/>
+    <title>
+        Merge pull request #20430 from georgeclaghorn/tighten-up-suppression
+    </title>
+    <updated>2015-06-04T01:33:03-03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/47848?v=3&amp;s=30"/>
+    <author>
+      <name>rafaelfranca</name>
+      <uri>https://github.com/rafaelfranca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #20430 from georgeclaghorn/tighten-up-suppression
+
+Apply Active Record suppression to all saves&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ac002395d87aa7a4bcc3126e67ca3b2808d832a6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/ac002395d87aa7a4bcc3126e67ca3b2808d832a6"/>
+    <title>
+        Apply Active Record suppression to all saves
+    </title>
+    <updated>2015-06-04T00:11:38-04:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/94129?v=3&amp;s=30"/>
+    <author>
+      <name>georgeclaghorn</name>
+      <uri>https://github.com/georgeclaghorn</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Apply Active Record suppression to all saves
+
+It was not being applied to creates and updates attempted through the
+non-bang save methods. This means that, for example, creation of
+records for singular associations through the `create_*` methods was
+not appropriately ignored in .suppress blocks.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ebd806cf4bcfabae7cabfa23bb64916e607dd41c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/ebd806cf4bcfabae7cabfa23bb64916e607dd41c"/>
+    <title>
+        Use inline Gemfile dependency when reporting bugs
+    </title>
+    <updated>2015-06-03T22:02:25-05:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1685896?v=3&amp;s=30"/>
+    <author>
+      <name>repinel</name>
+      <uri>https://github.com/repinel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Use inline Gemfile dependency when reporting bugs
+
+With Bundler `1.10.3`, it is possible to list the gems inline without the
+need to create a `Gemfile` if none is found in the current directory.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a68ffa731eaa72f37f5b9ba14359c7b2f447fcbf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/a68ffa731eaa72f37f5b9ba14359c7b2f447fcbf"/>
+    <title>
+        Removed duplicate test cases for template execution
+    </title>
+    <updated>2015-06-04T01:55:54+05:30</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1909242?v=3&amp;s=30"/>
+    <author>
+      <name>ronakjangir47</name>
+      <uri>https://github.com/ronakjangir47</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Removed duplicate test cases for template execution&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ae5f2b4e79f3e41aad8280109d8bfc788a1a2733</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/ae5f2b4e79f3e41aad8280109d8bfc788a1a2733"/>
+    <title>
+        Document config.action_mailer.deliver_later_queue_name
+    </title>
+    <updated>2015-06-03T13:28:21-03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/47848?v=3&amp;s=30"/>
+    <author>
+      <name>rafaelfranca</name>
+      <uri>https://github.com/rafaelfranca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Document config.action_mailer.deliver_later_queue_name
+
+Also add a CHANGELOG entry for #18587
+
+[ci skip]&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cecbf9ed32ab19d34ecae278f247a552d853b329</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/cecbf9ed32ab19d34ecae278f247a552d853b329"/>
+    <title>
+        Merge pull request #18587 from chrismcg/allow_deliver_later_queue_name_to_be_configured
+    </title>
+    <updated>2015-06-03T13:25:32-03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/47848?v=3&amp;s=30"/>
+    <author>
+      <name>rafaelfranca</name>
+      <uri>https://github.com/rafaelfranca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #18587 from chrismcg/allow_deliver_later_queue_name_to_be_configured
+
+Allow configuration of ActionMailer queue name&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6c4416183454cc75ee4dbed107fe7370c69fc37d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/6c4416183454cc75ee4dbed107fe7370c69fc37d"/>
+    <title>
+        pass check_ip and proxies to GetIp constructor
+    </title>
+    <updated>2015-06-03T14:01:11+08:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3124?v=3&amp;s=30"/>
+    <author>
+      <name>tenderlove</name>
+      <uri>https://github.com/tenderlove</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>pass check_ip and proxies to GetIp constructor
+
+The `GetIp` class doesn&#39;t need to keep a reference to the middleware, so
+there is no reason to pass the middleware instance to the `GetIp` class&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/814a994e1bfbb1a3a9cc94103e665ea90fafe792</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/814a994e1bfbb1a3a9cc94103e665ea90fafe792"/>
+    <title>
+        Merge pull request #20421 from repinel/fix-clear-guides-and-related-api-docs
+    </title>
+    <updated>2015-06-03T00:30:54-03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/47848?v=3&amp;s=30"/>
+    <author>
+      <name>rafaelfranca</name>
+      <uri>https://github.com/rafaelfranca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #20421 from repinel/fix-clear-guides-and-related-api-docs
+
+[ci skip] fix the `collection.clear` guide&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/efa1648f282f3844656e5a89ea2207934bcb1130</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/efa1648f282f3844656e5a89ea2207934bcb1130"/>
+    <title>
+        [ci skip] fix the `collection.clear` guide
+    </title>
+    <updated>2015-06-02T22:16:10-05:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1685896?v=3&amp;s=30"/>
+    <author>
+      <name>repinel</name>
+      <uri>https://github.com/repinel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>[ci skip] fix the `collection.clear` guide
+Improve the guide about `has_many` `collection.clear` to indicate
+the behavior for each dependent strategy according to
+`collection.delete_all`.
+
+Based on #17179, I changed the `collection.delete` docs to also
+clarify the default strategy for each `hm` and `hm:t` associations.
+
+Fixes #20170.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8193a09a1f0f15c4b7624d6c24e8a779baa64d39</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/8193a09a1f0f15c4b7624d6c24e8a779baa64d39"/>
+    <title>
+        Revert &quot;Merge pull request #19685 from vngrs/actionview_parent_layout_bug&quot;
+    </title>
+    <updated>2015-06-02T20:57:54-03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/47848?v=3&amp;s=30"/>
+    <author>
+      <name>rafaelfranca</name>
+      <uri>https://github.com/rafaelfranca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Revert &quot;Merge pull request #19685 from vngrs/actionview_parent_layout_bug&quot;
+
+This reverts commit a9d58c77da800bb0052c9bfa432828b02526022c, reversing
+changes made to 041c2c879a3c4086ad3aa6d30fed1eede1d53c11.
+
+Reason: The old behavior is how it was working in previous version of
+Rails since 4.0.x so it is not safe to backport to a stable branch.
+
+See https://github.com/rails/rails/issues/19626#issuecomment-89862258
+and https://github.com/rails/rails/pull/15050#issuecomment-45333449&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4519727cdb4a2e55aceefcc41f16b2c1da0d1681</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/4519727cdb4a2e55aceefcc41f16b2c1da0d1681"/>
+    <title>
+        Merge pull request #20383 from jonatack/fix-configurable-static-index-filename
+    </title>
+    <updated>2015-06-02T14:22:09-03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/52642?v=3&amp;s=30"/>
+    <author>
+      <name>spastorino</name>
+      <uri>https://github.com/spastorino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #20383 from jonatack/fix-configurable-static-index-filename
+
+Fix regression in #20017 wrong number of arguments error&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/939d5a493217bf5fa966495bc80440eeb0dbc29f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/939d5a493217bf5fa966495bc80440eeb0dbc29f"/>
+    <title>
+        Merge pull request #20387 from y-yagi/fix_engine_generated_controller_test
+    </title>
+    <updated>2015-06-02T16:20:40+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5402?v=3&amp;s=30"/>
+    <author>
+      <name>senny</name>
+      <uri>https://github.com/senny</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #20387 from y-yagi/fix_engine_generated_controller_test
+
+set engine&#39;s route in the functional test is generated in the engine&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b6b13905e5f2c5bb1e23166c3bac13672b597b03</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/b6b13905e5f2c5bb1e23166c3bac13672b597b03"/>
+    <title>
+        Skip test that fails from outdated sqlite3 on travis
+    </title>
+    <updated>2015-06-02T07:29:44-06:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1529387?v=3&amp;s=30"/>
+    <author>
+      <name>sgrif</name>
+      <uri>https://github.com/sgrif</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Skip test that fails from outdated sqlite3 on travis&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f5a131aaeaf0533e5f81461c2ad63474a865c19c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/commit/f5a131aaeaf0533e5f81461c2ad63474a865c19c"/>
+    <title>
+        Allow configuration of ActionMailer queue name
+    </title>
+    <updated>2015-06-02T10:49:49+01:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/212?v=3&amp;s=30"/>
+    <author>
+      <name>chrismcg</name>
+      <uri>https://github.com/chrismcg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Allow configuration of ActionMailer queue name&lt;/pre>
+    </content>
+  </entry>
+</feed>

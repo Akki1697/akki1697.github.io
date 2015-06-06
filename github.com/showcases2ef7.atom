@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>tag:github.com,2008:/showcases</id>
+  <link rel="alternate" type="text/html" href="https://github.com/showcases"/>
+  <link rel="self" type="application/atom+xml" href="https://github.com/showcases.atom?format=atom"/>
+  <title>GitHub Showcases</title>
+  <updated>2015-05-29T18:27:41Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/68</id>
+    <published>2015-05-29T17:56:26Z</published>
+    <updated>2015-05-29T18:27:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/fonts"/>
+    <title>Fonts</title>
+    <category>Python, PHP, HTML, CSS, Shell, Ruby</category>
+    <url>https://github.com/showcases/fonts</url>
+    <content type="html">&lt;p&gt;Some of the world's best open source fonts are hosted right here on GitHub. For all you typographers, here's a few of our favorites. These are text based fonts only, so if you're looking for icon fonts, check out the &lt;a href="https://github.com/showcases/icon-fonts"&gt;icon font showcase&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/33</id>
+    <published>2014-02-25T13:59:42Z</published>
+    <updated>2015-05-21T02:31:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/machine-learning"/>
+    <title>Machine learning</title>
+    <category>Objective-C, JavaScript, Ruby, Scala, Python, R, Java, Go, Haskell, C++</category>
+    <url>https://github.com/showcases/machine-learning</url>
+    <content type="html">&lt;p&gt;Laying the foundations for Skynet&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/15</id>
+    <published>2014-01-22T11:27:40Z</published>
+    <updated>2015-05-17T19:30:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/programming-languages"/>
+    <title>Programming languages</title>
+    <category>Ruby, C, Julia, Rust, Java, Scala, Elixir, Objective-C, LiveScript, Haskell, Scheme, CoffeeScript, Nimrod, F#, JavaScript, Racket, Erlang, Go, Dylan, Frege</category>
+    <url>https://github.com/showcases/programming-languages</url>
+    <content type="html">&lt;p&gt;A list of programming languages that are actively developed on GitHub.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/38</id>
+    <published>2014-03-14T20:16:43Z</published>
+    <updated>2015-02-22T17:42:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/web-games"/>
+    <title>Web games</title>
+    <category>CSS, JavaScript</category>
+    <url>https://github.com/showcases/web-games</url>
+    <content type="html">&lt;p&gt;Have some fun with these open source games. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/61</id>
+    <published>2014-12-17T02:02:42Z</published>
+    <updated>2015-01-04T22:05:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/made-in-africa"/>
+    <title>Made in Africa</title>
+    <category>Python, PHP, Java, JavaScript, Groovy, CoffeeScript</category>
+    <url>https://github.com/showcases/made-in-africa</url>
+    <content type="html">&lt;p&gt;African tech is booming – so here are just a few of the great open source projects driving the continent.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/28</id>
+    <published>2014-02-21T09:33:15Z</published>
+    <updated>2014-12-06T05:09:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/productivity-tools"/>
+    <title>Productivity tools</title>
+    <category>Ruby, Objective-C, JavaScript, Python, Perl, Shell, C#, C, Scala</category>
+    <url>https://github.com/showcases/productivity-tools</url>
+    <content type="html">&lt;p&gt;Build software faster with fewer headaches.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/41</id>
+    <published>2014-03-25T22:20:06Z</published>
+    <updated>2014-11-30T07:24:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/projects-that-power-github-for-mac"/>
+    <title>Projects that power GitHub for Mac</title>
+    <category>Objective-C, Shell, C, Swift</category>
+    <url>https://github.com/showcases/projects-that-power-github-for-mac</url>
+    <content type="html">&lt;p&gt;Here are some of the great open source projects used within &lt;a href="https://mac.github.com"&gt;GitHub for Mac&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/43</id>
+    <published>2014-03-28T20:14:19Z</published>
+    <updated>2014-11-29T18:44:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/clean-code-linters"/>
+    <title>Clean code linters</title>
+    <category>JavaScript, Ruby, Haskell, CoffeeScript, HTML, Go, C++, Python, Erlang</category>
+    <url>https://github.com/showcases/clean-code-linters</url>
+    <content type="html">&lt;p&gt;Code linters will report any code typos to you when you're learning to code. Make sure your code is style guide compliant with these essential code linters. Many of the linters here are already supported in your editor!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/19</id>
+    <published>2014-02-17T18:09:56Z</published>
+    <updated>2014-11-20T08:59:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/javascript-game-engines"/>
+    <title>JavaScript game engines</title>
+    <category>JavaScript, CSS</category>
+    <url>https://github.com/showcases/javascript-game-engines</url>
+    <content type="html">&lt;p&gt;Learn or level up your L337 game dev skills and build amazing games together for web, desktop, or mobile.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/34</id>
+    <published>2014-02-26T14:16:32Z</published>
+    <updated>2014-11-20T08:56:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/game-off-winners"/>
+    <title>Game off winners</title>
+    <category>C#, CoffeeScript, JavaScript, ActionScript, Java</category>
+    <url>https://github.com/showcases/game-off-winners</url>
+    <content type="html">&lt;p&gt;The winners of our annual game jam, where contestants have 1 month to build an open source game that is playable in the web browser.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/36</id>
+    <published>2014-02-26T23:02:32Z</published>
+    <updated>2014-11-20T08:45:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/data-visualization"/>
+    <title>Data visualization</title>
+    <category>JavaScript, HTML, CoffeeScript, Python</category>
+    <url>https://github.com/showcases/data-visualization</url>
+    <content type="html">&lt;p&gt;Data visualization tools for the web.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/45</id>
+    <published>2014-03-31T04:45:20Z</published>
+    <updated>2014-11-20T08:45:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/game-engines"/>
+    <title>Game Engines</title>
+    <category>C, TypeScript, C++, ActionScript, C#, Java, D</category>
+    <url>https://github.com/showcases/game-engines</url>
+    <content type="html">&lt;p&gt;Frameworks for building games across multiple platforms.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/59</id>
+    <published>2014-09-30T16:45:59Z</published>
+    <updated>2014-10-14T18:13:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/open-source-operating-systems"/>
+    <title>Open Source Operating Systems</title>
+    <category>Assembly, C, Shell</category>
+    <url>https://github.com/showcases/open-source-operating-systems</url>
+    <content type="html">&lt;p&gt;The operating system is an essential component of a computer system. We want to highlight this cool and highly technical subset of the open source world. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/6</id>
+    <published>2014-01-16T00:04:59Z</published>
+    <updated>2014-09-30T18:37:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/design-essentials"/>
+    <title>Design essentials</title>
+    <category>JavaScript, CSS, HTML, PHP</category>
+    <url>https://github.com/showcases/design-essentials</url>
+    <content type="html">&lt;p&gt;Whether you float to the left or float to the right, you'll find these libraries and resources for design, HTML, CSS, and fonts useful.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Showcase::Collection/27</id>
+    <published>2014-02-21T08:55:24Z</published>
+    <updated>2014-09-30T18:37:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/showcases/front-end-javascript-frameworks"/>
+    <title>Front-end JavaScript frameworks</title>
+    <category>JavaScript, HTML</category>
+    <url>https://github.com/showcases/front-end-javascript-frameworks</url>
+    <content type="html">&lt;p&gt;While the number of ways to organize JavaScript is almost infinite, here are some tools that help you build single-page applications.&lt;/p&gt;</content>
+  </entry>
+</feed>

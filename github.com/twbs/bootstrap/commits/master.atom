@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/twbs/bootstrap/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/twbs/bootstrap/commits/master.atom"/>
+  <title>Recent Commits to bootstrap:master</title>
+  <updated>2015-06-02T21:36:03-07:00</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e7a4f9b4fe9ff6562c884fb22384e1891def9386</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/e7a4f9b4fe9ff6562c884fb22384e1891def9386"/>
+    <title>
+        Merge pull request #16579 from kkirsche/patch-8
+    </title>
+    <updated>2015-06-02T21:36:03-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/98681?v=3&amp;s=30"/>
+    <author>
+      <name>mdo</name>
+      <uri>https://github.com/mdo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16579 from kkirsche/patch-8
+
+Include Slack in CONTRIBUTING.md&#39;s list of places to get help&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/69af7fe1b250b926545b821af05b10933333a3e1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/69af7fe1b250b926545b821af05b10933333a3e1"/>
+    <title>
+        Include Slack in list of places to get help
+    </title>
+    <updated>2015-06-02T21:51:45-04:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/947110?v=3&amp;s=30"/>
+    <author>
+      <name>kkirsche</name>
+      <uri>https://github.com/kkirsche</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Include Slack in list of places to get help
+
+As Slack is a common replacement for IRC for projects (e.g. Wordpress), I propose that we encourage the use of Slack as you have members of the core team using it while IRC often does not have any of the core team available.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/caca5d46d5a88cef0a766ae1466d26a8a2342805</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/caca5d46d5a88cef0a766ae1466d26a8a2342805"/>
+    <title>
+        Merge pull request #16571 from patrickhlauke/generalize-dropdowns
+    </title>
+    <updated>2015-06-02T11:21:26+01:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/895831?v=3&amp;s=30"/>
+    <author>
+      <name>patrickhlauke</name>
+      <uri>https://github.com/patrickhlauke</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16571 from patrickhlauke/generalize-dropdowns
+
+generalize dropdowns / drop role=&quot;menu&quot;&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5fd7bc1554d492bdd5794d35fce515fe951439a6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/5fd7bc1554d492bdd5794d35fce515fe951439a6"/>
+    <title>
+        generalize dropdowns / drop role=&quot;menu&quot;
+    </title>
+    <updated>2015-06-02T11:03:21+01:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/895831?v=3&amp;s=30"/>
+    <author>
+      <name>patrickhlauke</name>
+      <uri>https://github.com/patrickhlauke</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>generalize dropdowns / drop role=&quot;menu&quot;
+
+as role=&quot;menu&quot; is a very specific (and strict) ARIA pattern for
+desktop-like application menus, and our dropdowns are often used
+as pure navigation dropdowns, this change abandons ARIA menus for
+a more open-ended and light-weight approach
+(see http://heydonworks.com/practical_aria_examples/#submenus and
+http://www.w3.org/WAI/tutorials/menus/flyout/#improve-screen-reader-support-using-wai-aria)
+note that in dropdown.js, switched to now target ``.dropdown-menu``
+instead of ``role[&quot;menu&quot;]`` - this also prevents bootstrap scripts
+from &quot;bleeding&quot; into non-bootstrap components on the same page.
+also removed the ``role=[&quot;listbox&quot;]`` part, which appears to be
+vestigial/unused (only place in bootstrap that uses that
+role are carousels, and their key handling is done separately)&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f09e7964298971b024965b48a876153f5e420f81</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/f09e7964298971b024965b48a876153f5e420f81"/>
+    <title>
+        Merge pull request #16567 from justincron/master
+    </title>
+    <updated>2015-06-01T16:55:00-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/419884?v=3&amp;s=30"/>
+    <author>
+      <name>cvrebert</name>
+      <uri>https://github.com/cvrebert</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16567 from justincron/master
+
+Fixed typo in hide-text.less
+[skip sauce]
+[skip validator]&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/565037a914e72ed7e0a0e2689b6af1eb8bccf4a3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/565037a914e72ed7e0a0e2689b6af1eb8bccf4a3"/>
+    <title>
+        Fixed typo
+    </title>
+    <updated>2015-06-01T13:17:32-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/2624549?v=3&amp;s=30"/>
+    <author>
+      <name>justincron</name>
+      <uri>https://github.com/justincron</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Fixed typo&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bae5f376c5c54a629de86fec0c2493a29168ee9d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/bae5f376c5c54a629de86fec0c2493a29168ee9d"/>
+    <title>
+        Merge pull request #16566 from ipdae/master
+    </title>
+    <updated>2015-06-01T11:50:00-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/98681?v=3&amp;s=30"/>
+    <author>
+      <name>mdo</name>
+      <uri>https://github.com/mdo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16566 from ipdae/master
+
+change korean translation site url&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5efc832d7e256f1d955cb2f86d5ad0d60e51a6e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/5efc832d7e256f1d955cb2f86d5ad0d60e51a6e5"/>
+    <title>
+        change korean translation site url
+    </title>
+    <updated>2015-06-01T23:44:42+09:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/3193043?v=3&amp;s=30"/>
+    <author>
+      <name>ipdae</name>
+      <uri>https://github.com/ipdae</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>change korean translation site url&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b5ed74d43dfb91e7447000ff371886ad55c3b850</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/b5ed74d43dfb91e7447000ff371886ad55c3b850"/>
+    <title>
+        Run `grunt`.
+    </title>
+    <updated>2015-06-01T10:29:18+03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/349621?v=3&amp;s=30"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Run `grunt`.
+
+[ci skip]&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cbe0f352d136c8a0750b0ff0294038818ad91a50</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/cbe0f352d136c8a0750b0ff0294038818ad91a50"/>
+    <title>
+        Fix license header after e93c6a2216c69daa574abc16e7c14767fce44ad6.
+    </title>
+    <updated>2015-06-01T10:29:18+03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/349621?v=3&amp;s=30"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Fix license header after e93c6a2216c69daa574abc16e7c14767fce44ad6.
+
+[ci skip]&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/82aa0cd56b504ed33b2beed1e5b68b9985bbb9af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/82aa0cd56b504ed33b2beed1e5b68b9985bbb9af"/>
+    <title>
+        docs: update uglify-js to v2.4.23.
+    </title>
+    <updated>2015-06-01T10:29:18+03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/349621?v=3&amp;s=30"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>docs: update uglify-js to v2.4.23.
+
+[ci skip]&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/704e3448bfcb46a3d417ffd300f8c7f5e820907c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/704e3448bfcb46a3d417ffd300f8c7f5e820907c"/>
+    <title>
+        Bump load-grunt-tasks.
+    </title>
+    <updated>2015-06-01T10:29:18+03:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/349621?v=3&amp;s=30"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Bump load-grunt-tasks.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b5b4c9c701ec72b645374e161cfaf9ec84ab73a5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/b5b4c9c701ec72b645374e161cfaf9ec84ab73a5"/>
+    <title>
+        Merge pull request #16484 from kkirsche/patch-13
+    </title>
+    <updated>2015-05-30T17:32:20-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/98681?v=3&amp;s=30"/>
+    <author>
+      <name>mdo</name>
+      <uri>https://github.com/mdo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16484 from kkirsche/patch-13
+
+ScrollSpy requires non-body elements to have height and overflow…&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/962ae5ac2fb9f291ae7c6a60d8c5d0e00323de8d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/962ae5ac2fb9f291ae7c6a60d8c5d0e00323de8d"/>
+    <title>
+        [Close #16441] ScrollSpy requires non-body elements to have height and padding
+    </title>
+    <updated>2015-05-30T18:24:23-04:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/947110?v=3&amp;s=30"/>
+    <author>
+      <name>kkirsche</name>
+      <uri>https://github.com/kkirsche</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>[Close #16441] ScrollSpy requires non-body elements to have height and padding
+
+[Close #16441] ScrollSpy requires non-body elements to have height and padding&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d0fc465c181892369adb96ca1c695f85b011feba</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/d0fc465c181892369adb96ca1c695f85b011feba"/>
+    <title>
+        Merge pull request #16565 from TimothyGu/patch-1
+    </title>
+    <updated>2015-05-30T15:08:02-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/98681?v=3&amp;s=30"/>
+    <author>
+      <name>mdo</name>
+      <uri>https://github.com/mdo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16565 from TimothyGu/patch-1
+
+Adjust Carbon Ads margin on -xs&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7278bed86f7e740a0f5e1a8d64d08c75c1590942</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/7278bed86f7e740a0f5e1a8d64d08c75c1590942"/>
+    <title>
+        Adjust Carbon Ads margin on -xs
+    </title>
+    <updated>2015-05-30T14:57:41-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1538624?v=3&amp;s=30"/>
+    <author>
+      <name>TimothyGu</name>
+      <uri>https://github.com/TimothyGu</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Adjust Carbon Ads margin on -xs
+
+The .container that immediately surrounds .carbonad has a padding of 15px, not 30px.
+
+Fixes #16552.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/39137b9f4a26608988232f7d4966af280e46b689</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/39137b9f4a26608988232f7d4966af280e46b689"/>
+    <title>
+        Merge pull request #16561 from patrickhlauke/docs-separators
+    </title>
+    <updated>2015-05-30T00:05:34+01:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/895831?v=3&amp;s=30"/>
+    <author>
+      <name>patrickhlauke</name>
+      <uri>https://github.com/patrickhlauke</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16561 from patrickhlauke/docs-separators
+
+ensure divider list items have `role=&quot;separator&quot;`&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3b59b97c626bf2accef8217339b04712666c36d9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/3b59b97c626bf2accef8217339b04712666c36d9"/>
+    <title>
+        ensure divider list items have role=&quot;separator&quot;
+    </title>
+    <updated>2015-05-29T23:48:35+01:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/895831?v=3&amp;s=30"/>
+    <author>
+      <name>patrickhlauke</name>
+      <uri>https://github.com/patrickhlauke</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>ensure divider list items have role=&quot;separator&quot;
+
+http://www.w3.org/TR/wai-aria/roles#separator&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3487898a6af8c1d5b12f7b040d30e71b19e34923</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/3487898a6af8c1d5b12f7b040d30e71b19e34923"/>
+    <title>
+        Merge pull request #16504 from kkirsche/patch-8
+    </title>
+    <updated>2015-05-26T15:15:15-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/419884?v=3&amp;s=30"/>
+    <author>
+      <name>cvrebert</name>
+      <uri>https://github.com/cvrebert</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16504 from kkirsche/patch-8
+
+Clarify the bs-callout on multiple open modals&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bb8821251b6b80891aa2d02985c760d1aea9f165</id>
+    <link type="text/html" rel="alternate" href="https://github.com/twbs/bootstrap/commit/bb8821251b6b80891aa2d02985c760d1aea9f165"/>
+    <title>
+        Merge pull request #16533 from mortonfox/patch-1
+    </title>
+    <updated>2015-05-26T10:32:13-07:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/419884?v=3&amp;s=30"/>
+    <author>
+      <name>cvrebert</name>
+      <uri>https://github.com/cvrebert</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #16533 from mortonfox/patch-1
+
+Update source maps link&lt;/pre>
+    </content>
+  </entry>
+</feed>

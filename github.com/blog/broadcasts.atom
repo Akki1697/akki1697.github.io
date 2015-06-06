@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>tag:github.com,2008:/blog/broadcasts</id>
+  <link rel="alternate" type="text/html" href="https://github.com/blog"/>
+  <link rel="self" type="application/atom+xml" href="https://github.com/blog/broadcasts.atom"/>
+  <title>The GitHub Blog Broadcasts</title>
+  <updated>2015-05-27T22:31:43Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Post/2006</id>
+    <published>2015-05-21T23:56:49Z</published>
+    <updated>2015-05-27T22:31:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2006-codeconf-2015-speakers-workshops-and-hotel-discount"/>
+    <title>CodeConf 2015: Speakers, Workshops and Hotel Discount </title>
+    <category>conferences</category>
+    <content type="html">&lt;iframe width="685" height="385" src="https://www.youtube.com/embed/QEFEdkFaFVk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;We thought you'd like a preview of what we have in store for CodeConf 2015 in June before &lt;a href="http://www.ticketbase.com/events/codeconf-2015"&gt;discounted ticket sales end on May 25th&lt;/a&gt;. We're beyond excited to be welcoming speakers from all over the globe and from companies and organizations of all sizes, who work on every facet of open source technology and represent many different parts of the community. Here's a sneak peak at some of the excellent speakers who will be presenting at CodeConf this year:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eric Levine of Airbnb&lt;/li&gt;
+&lt;li&gt;Casey Rosenthal of Netflix&lt;/li&gt;
+&lt;li&gt;Christine Abernathy of Facebook&lt;/li&gt;
+&lt;li&gt;Corinne Warnshuis of Girl Develop It&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is just a sampling of the amazing line-up. Check out the full preview over at the &lt;a href="http://codeconf.com/"&gt;CodeConf site&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But wait there's more!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reserve a spot in one of our &lt;a href="http://codeconf.com/#workshops"&gt;hands-on workshops&lt;/a&gt; led by expert trainers. Space is limited, so &lt;a href="http://codeconf.com/#workshops"&gt;register early&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Join us the evening before the conference to enjoy the company of the Nashville open source community and grab your badge early. You won't want to miss the food from legendary &lt;a href="http://www.hattieb.com/"&gt;Hattie B's&lt;/a&gt;. &lt;/li&gt;
+&lt;li&gt;Register for a discounted room at the &lt;a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&amp;amp;eventID=13906369"&gt;Gaylord Opryland Hotel&lt;/a&gt;. Shuttles will depart at convenient intervals so you can easily get to and from the conference. By booking a room at the Opryland instead of a downtown hotel, you save about $100. &lt;/li&gt;
+&lt;li&gt;There are still a few sponsorship opportunities left, including our scholarship program. &lt;a href="http://f.cl.ly/items/0V3p3p0D0l3d3s1j2l2r/CodeConf.Prospectus.2015.pdf"&gt;Check out the prospectus&lt;/a&gt; and drop us a line at &lt;a href="mailto:events@github.com"&gt;events@github.com&lt;/a&gt;. &lt;/li&gt;
+&lt;li&gt;Find more details about everything we have in store for you on the new &lt;a href="http://codeconf.com/"&gt;codeconf.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lastly, we'd like to thank everyone who took the time to send us their ideas. We were overwhelmed by the quality and creativity of the 300+ proposals submitted. You are the heart of CodeConf. &lt;/p&gt;
+
+&lt;p&gt;Ticket prices go up to $399 on May 25th and we can't wait to see you in Nashville, &lt;a href="http://www.ticketbase.com/events/codeconf-2015"&gt;so what are you waiting for?&lt;/a&gt;&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars2.githubusercontent.com/u/4154342?v=3&amp;s=60"/>
+    <author>
+      <name>kelseyschimm</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1993</id>
+    <published>2015-05-05T20:05:51Z</published>
+    <updated>2015-05-05T20:05:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1993-exporting-your-organization-audit-log"/>
+    <title>Exporting Your Organization Audit Log</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;The Organization audit log allows you to quickly review actions performed by members of your organization on GitHub. You may need to look for specific activity or even through your organization's entire audit log to help aid in legal cases or keep record of suspicious activity.&lt;/p&gt;
+
+&lt;p&gt;To do just that, you now have the tools to &lt;a href="https://help.github.com/articles/reviewing-the-audit-log-for-your-organization/#exporting-the-audit-log"&gt;export your organization's audit log&lt;/a&gt; in either JSON or CSV format.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/79995/7376703/66f8b8d2-ed96-11e4-9258-9caacdb60b7c.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/79995/7376703/66f8b8d2-ed96-11e4-9258-9caacdb60b7c.png" alt="Audit log export" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/79995?v=3&amp;s=60"/>
+    <author>
+      <name>dewski</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1986</id>
+    <published>2015-04-08T19:02:17Z</published>
+    <updated>2015-04-08T20:06:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1986-announcing-git-large-file-storage-lfs"/>
+    <title>Announcing Git Large File Storage (LFS)</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;Distributed version control systems like Git have enabled new and powerful workflows, but they haven't always been practical for versioning large files. We're excited to announce &lt;a href="http://git-lfs.github.com?utm_source=github_site&amp;amp;utm_medium=blog&amp;amp;utm_campaign=gitlfs"&gt;Git Large File Storage (LFS)&lt;/a&gt; as an improved way to integrate large binary files such as audio samples, datasets, graphics, and videos into your Git workflow.&lt;/p&gt;
+
+&lt;p&gt;Git LFS is a new, open source extension that replaces large files with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://git-lfs.github.com?utm_source=github_site&amp;amp;utm_medium=blog&amp;amp;utm_campaign=gitlfs"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/1319791/7051226/c4570828-ddf4-11e4-87eb-8fc165e5ece4.gif" alt="graphic" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Git LFS is easy to download and configure, works on all major platforms, and is open sourced under the MIT license.&lt;/p&gt;
+
+&lt;h2&gt;Early access to Git LFS support on GitHub.com&lt;/h2&gt;
+
+&lt;p&gt;We're ready to roll out Git LFS support to a select group of users. If you'd like to be one of the first to try it out on GitHub.com, &lt;a href="https://github.com/early_access/large_file_storage?utm_source=github_site&amp;amp;utm_medium=blog&amp;amp;utm_campaign=gitlfs"&gt;sign up for early access&lt;/a&gt; using your GitHub account.&lt;/p&gt;
+
+&lt;p&gt;In the next few months, every repository on GitHub.com will support Git LFS by default.&lt;/p&gt;
+
+&lt;h2&gt;Pricing&lt;/h2&gt;
+
+&lt;p&gt;Every user and organization on GitHub.com with Git LFS enabled will begin with 1 GB of free file storage and a monthly bandwidth quota of 1 GB. If your workflow requires higher quotas, you can easily purchase more storage and bandwidth for your account.&lt;/p&gt;
+
+&lt;p&gt;Want to start working with large files on GitHub.com? &lt;a href="https://github.com/early_access/large_file_storage?utm_source=github_site&amp;amp;utm_medium=blog&amp;amp;utm_campaign=gitlfs"&gt;Sign up for early access&lt;/a&gt;.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars1.githubusercontent.com/u/21?v=3&amp;s=60"/>
+    <author>
+      <name>technoweenie</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1969</id>
+    <published>2015-03-04T18:27:05Z</published>
+    <updated>2015-03-05T03:23:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1969-create-pull-requests-in-github-for-windows"/>
+    <title>Create Pull Requests in GitHub for Windows</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;Just like our &lt;a href="https://mac.github.com"&gt;Mac client&lt;/a&gt;, you can now use &lt;a href="https://windows.github.com"&gt;GitHub for Windows&lt;/a&gt; to submit pull requests to GitHub or GitHub Enterprise, right from your desktop.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/634063/6474793/42c3a6a6-c204-11e4-9380-f05d68ab9d99.gif" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/634063/6474793/42c3a6a6-c204-11e4-9380-f05d68ab9d99.gif" alt="Create a pull request" width="328" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We didn't forget forks, either! If you fork a repository and then want to contribute changes to the upstream repository, GitHub for Windows will keep track of upstream branches. This means less hassle when you're ready to contribute your changes back.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/634063/6475130/7b5b4084-c207-11e4-8a23-0f7a99a88b95.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/634063/6475130/7b5b4084-c207-11e4-8a23-0f7a99a88b95.png" alt="Upstream branches" width="685" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Download &lt;a href="https://windows.github.com"&gt;GitHub for Windows&lt;/a&gt; and start sending pull requests now!&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars3.githubusercontent.com/u/24247?v=3&amp;s=60"/>
+    <author>
+      <name>joshvera</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1960</id>
+    <published>2015-02-18T15:33:52Z</published>
+    <updated>2015-02-18T15:34:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1960-the-new-face-of-committing-in-github-for-mac"/>
+    <title>The new face of committing in GitHub for Mac</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;We’ve just redesigned &lt;a href="https://mac.github.com"&gt;GitHub for Mac&lt;/a&gt;’s Changes tab to make it even easier to review lots of changes, and to see what will be shared before clicking Sync:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/432536/6219169/e82c9782-b5da-11e4-9e2b-ea1cd3dd131a.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/432536/6219169/e82c9782-b5da-11e4-9e2b-ea1cd3dd131a.png" width="932" alt="A long list of changes in GitHub for Mac" style="max-width:100%;"&gt;&lt;/a&gt;
+&lt;a href="https://cloud.githubusercontent.com/assets/432536/6219168/e8236978-b5da-11e4-926e-3791965c93a4.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/432536/6219168/e8236978-b5da-11e4-926e-3791965c93a4.png" width="932" alt="A long list of unsynced commits in GitHub for Mac" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This means that you can focus solely on what’s most important to you: your changes.&lt;/p&gt;
+
+&lt;p&gt;We’ve also simplified and improved the process for fixing up a commit you’ve just made. Just click the “Undo” button in the pane that appears:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/432536/6218983/ffafe758-b5d8-11e4-9488-90f02d0db8ba.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/432536/6218983/ffafe758-b5d8-11e4-9488-90f02d0db8ba.png" width="374" alt="Recent commit pane with Undo button" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And if you don’t want to worry about manually syncing your changes after committing, you can enable “Automatically Sync after Committing” from the Edit menu:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/432536/6218871/bec37080-b5d7-11e4-8cd1-cb87e125b38d.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/432536/6218871/bec37080-b5d7-11e4-8cd1-cb87e125b38d.png" width="329" alt="Automatically Sync after Committing in the Edit menu" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is yet another step toward our grand vision for GitHub for Mac, with plenty more to come, so &lt;a href="https://mac.github.com"&gt;give it a shot&lt;/a&gt;! If you already have GitHub for Mac installed, it will update itself to the latest version automatically.&lt;/p&gt;
+
+&lt;p&gt;As always, we’d love to know what you think. If you have any comments, questions or bug reports, please &lt;a href="https://github.com/contact"&gt;let us know&lt;/a&gt;.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars3.githubusercontent.com/u/432536?v=3&amp;s=60"/>
+    <author>
+      <name>jspahrsummers</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1957</id>
+    <published>2015-02-06T00:33:14Z</published>
+    <updated>2015-02-06T00:33:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1957-git-2-3-has-been-released"/>
+    <title>Git 2.3 has been released</title>
+    <category>engineering</category>
+    <content type="html">&lt;p&gt;The Git developers have just released a major new version of the Git command-line utility, Git 2.3.0.&lt;/p&gt;
+
+&lt;p&gt;As usual, this release contains many improvements, performance enhancements, and bug fixes. Full details about what's included can be found in the &lt;a href="https://github.com/gitster/git/blob/v2.3.0/Documentation/RelNotes/2.3.0.txt"&gt;Git 2.3.0 release notes&lt;/a&gt;, but here's a look at what we  consider to be the coolest new features in this release.&lt;/p&gt;
+
+&lt;h2&gt;Push to deploy&lt;/h2&gt;
+
+&lt;p&gt;One way to deploy a Git-based web project is to keep a checked-out working copy on your server. When a new version is ready, you log into the server and run &lt;code&gt;git pull&lt;/code&gt; to fetch and deploy the new changes. While this technique has some disadvantages (see below), it is very easy to set up and use, especially if your project consists mostly of static content.&lt;/p&gt;
+
+&lt;p&gt;With Git 2.3, this technique has become even more convenient. Now you can push changes directly to the repository on your server. Provided no local modifications have been made on the server, any changes to the server's current branch will be checked out automatically. Instant deploy!&lt;/p&gt;
+
+&lt;p&gt;To use this feature, you have to first enable it in the Git repository on your server by running&lt;/p&gt;
+
+&lt;div class="highlight highlight-ShellSession"&gt;&lt;pre&gt;$ &lt;span class="pl-s1"&gt;git config receive.denyCurrentBranch updateInstead&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;When shouldn't you use push-to-deploy?&lt;/h3&gt;
+
+&lt;p&gt;Deploying by pushing to a Git repository is quick and convenient, but it is not for everybody. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Your server will contain a &lt;code&gt;.git&lt;/code&gt; directory containing the entire history of your project. You probably want to make extra sure that it cannot be served to users!&lt;/li&gt;
+&lt;li&gt;During deploys, it will be possible for users momentarily to encounter the site in an inconsistent state, with some files at the old version and others at the new version, or even half-written files. If this is a problem for your project, push-to-deploy is probably not for you.&lt;/li&gt;
+&lt;li&gt;If your project needs a "build" step, then you will have to set that up explicitly, perhaps via &lt;a href="http://git-scm.com/docs/githooks"&gt;githooks&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/gitster/git/commit/72ecc6ef53cb2906f5efab11fa6ab26c1729f233"&gt;See how this feature was implemented&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Faster cloning by borrowing objects from existing clones&lt;/h2&gt;
+
+&lt;p&gt;Cloning a remote repository can involve transferring a lot of data over the network. But if you already have another local clone of the same repository, it probably already has most of the history that the new clone will need. Now it is easy to use those local objects rather than transferring them again:&lt;/p&gt;
+
+&lt;div class="highlight highlight-ShellSession"&gt;&lt;pre&gt;$ &lt;span class="pl-s1"&gt;git clone --reference ../oldclone --dissociate https://github.com/gitster/git.git&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;The new &lt;code&gt;--dissociate&lt;/code&gt; option tells Git to copy any objects it can from local repository &lt;code&gt;../oldclone&lt;/code&gt;, retrieving the remainder from the remote repository. Afterwards, the two clones remain independent; either one can be deleted without impacting the other (unlike when &lt;code&gt;--reference&lt;/code&gt; is used without &lt;code&gt;--dissociate&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/gitster/git/commit/d35c8027937546e6b22a2f28123f731c84e3b380"&gt;See how this feature was implemented&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;More conservative default behavior for &lt;code&gt;git push&lt;/code&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;If you run &lt;code&gt;git push&lt;/code&gt; without arguments, Git now uses the more conservative &lt;code&gt;simple&lt;/code&gt; behavior as the default. This means that Git refuses to push anything unless you have defined an "upstream" branch for your current branch &lt;em&gt;and&lt;/em&gt; the upstream branch has the same name as your current branch. For example:&lt;/p&gt;
+
+&lt;div class="highlight highlight-ShellSession"&gt;&lt;pre&gt;$ &lt;span class="pl-s1"&gt;git config branch.autosetupmerge &lt;span class="pl-c1"&gt;true&lt;/span&gt;&lt;/span&gt;
+$ &lt;span class="pl-s1"&gt;git checkout -b experimental origin/master&lt;/span&gt;
+&lt;span class="pl-mo"&gt;Branch experimental set up to track remote branch master from origin.&lt;/span&gt;
+&lt;span class="pl-mo"&gt;Switched to a new branch 'experimental'&lt;/span&gt;
+$ &lt;span class="pl-s1"&gt;git commit -a -m &lt;span class="pl-s"&gt;&lt;span class="pl-pds"&gt;'&lt;/span&gt;Experimental changes&lt;span class="pl-pds"&gt;'&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="pl-mo"&gt;[experimental 43ca356] Experimental changes&lt;/span&gt;
+$ &lt;span class="pl-s1"&gt;git push&lt;/span&gt;
+&lt;span class="pl-mo"&gt;fatal: The upstream branch of your current branch does not match&lt;/span&gt;
+&lt;span class="pl-mo"&gt;the name of your current branch.  To push to the upstream branch&lt;/span&gt;
+&lt;span class="pl-mo"&gt;on the remote, use&lt;/span&gt;
+
+&lt;span class="pl-mo"&gt;    git push origin HEAD:master&lt;/span&gt;
+
+&lt;span class="pl-mo"&gt;To push to the branch of the same name on the remote, use&lt;/span&gt;
+
+&lt;span class="pl-mo"&gt;    git push origin experimental&lt;/span&gt;
+
+$&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;The new default behavior is meant to help users avoid pushing changes to the wrong branch by accident. In the case above, the &lt;code&gt;experimental&lt;/code&gt; branch started out tracking &lt;code&gt;master&lt;/code&gt;, but the user probably wanted to push the &lt;code&gt;experimental&lt;/code&gt; branch to a new remote branch called &lt;code&gt;experimental&lt;/code&gt;. So the correct command would be &lt;code&gt;git push origin experimental&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The default behavior can be changed by configuring &lt;code&gt;push.default&lt;/code&gt;. If you want to go back to the version 1.x behavior, set it to &lt;code&gt;matching&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class="highlight highlight-ShellSession"&gt;&lt;pre&gt;$ &lt;span class="pl-s1"&gt;git config --global push.default matching&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/gitster/git/commit/23c0956441a101b2e8eca7e063e71bdc69a0c415"&gt;See how this feature was implemented&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;More flexible &lt;code&gt;ssh&lt;/code&gt; invocation&lt;/h2&gt;
+
+&lt;p&gt;Git knows how to connect to a remote host via the SSH protocol, but sometimes you need to tweak exactly how it makes the connection. If so, you can now use a new shell variable, &lt;code&gt;GIT_SSH_COMMAND&lt;/code&gt;, to specify the command (including arguments) or even an arbitrary snippet of Shell code that Git should use to connect to the remote host. For example, if you need to use a different SSH identity file when connecting to a Git server, you could enter&lt;/p&gt;
+
+&lt;div class="highlight highlight-ShellSession"&gt;&lt;pre&gt;$ &lt;span class="pl-s1"&gt;GIT_SSH_COMMAND=&lt;span class="pl-s"&gt;&lt;span class="pl-pds"&gt;'&lt;/span&gt;ssh -i git_id&lt;span class="pl-pds"&gt;'&lt;/span&gt;&lt;/span&gt; git clone host:repo.git&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/gitster/git/commit/09d60d785c68c8fa65094ecbe46fbc2a38d0fc1f"&gt;See how this feature was implemented&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;The credential subsystem is now friendlier to scripting&lt;/h2&gt;
+
+&lt;p&gt;When Git needs a password (e.g., to connect to a remote repository over http), it uses the &lt;a href="http://git-scm.com/docs/gitcredentials"&gt;credential&lt;/a&gt; subsystem to query any helpers (like the OS X Keychain helper), and then finally prompts the user on the terminal. When Git is run from an automated process like a &lt;code&gt;cron&lt;/code&gt; job, there is usually no terminal available and Git will skip the prompt. However, if there &lt;em&gt;is&lt;/em&gt; a terminal available, Git may hang forever, waiting for the user to type something. Scripts which do not expect user input can now set &lt;code&gt;GIT_TERMINAL_PROMPT=0&lt;/code&gt; in the environment to avoid this behavior.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/gitster/git/commit/86362f7205a31188846de0aed94620c1f0776931"&gt;See how this feature was implemented&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Other&lt;/h2&gt;
+
+&lt;p&gt;Some other useful tidbits:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Now Git is cleverer about not rewriting paths in the working tree unnecessarily when checking out particular commits. This will help reduce the amount of redundant work done during software builds and reduce the time that incomplete files are present on the filesystem (especially helpful if you are using push-to-deploy). &lt;a href="https://github.com/gitster/git/commit/c21df07886bb07a893609ff242e29b1493da1fd8"&gt;See how this feature was implemented&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Now &lt;code&gt;git branch -d&lt;/code&gt; supports a &lt;code&gt;--force/-f&lt;/code&gt; option, which can be used to delete a branch even if it hasn't been merged yet. Similarly, &lt;code&gt;git branch -m&lt;/code&gt; supports &lt;code&gt;--force/-f&lt;/code&gt;, which allows a branch to be renamed even if the new name is already in use. This change makes these commands more consistent with the many other Git commands that support &lt;code&gt;--force/-f&lt;/code&gt;. &lt;a href="https://github.com/gitster/git/commit/15a171f6eb436f9a31986f78bbb115ed4540ad5b"&gt;See how these features were implemented&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Additional resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://git-scm.com/"&gt;The main Git website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The book &lt;strong&gt;Pro Git&lt;/strong&gt; (&lt;a href="http://git-scm.com/book/en/v2"&gt;available online&lt;/a&gt;); including its &lt;a href="http://git-scm.com/book/en/v2/Getting-Started-Installing-Git"&gt;chapter about installing Git&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;GitHub's &lt;a href="https://help.github.com/articles/set-up-git/"&gt;Guide to setting up Git&lt;/a&gt; and &lt;a href="https://help.github.com/"&gt;other help articles&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don't forget: an important Git security vulnerability was &lt;a href="https://github.com/blog/1938-vulnerability-announced-update-your-git-clients"&gt;fixed last December&lt;/a&gt;. If you haven't upgraded your Git client since then, we recommend that you do so as soon as possible. The new release, 2.3.0, includes the security fix, as do the maintenance releases 1.8.5.6, 1.9.5, 2.0.5, and 2.1.4, which were released in December. &lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars3.githubusercontent.com/u/119718?v=3&amp;s=60"/>
+    <author>
+      <name>mhagger</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1947</id>
+    <published>2015-01-20T17:25:43Z</published>
+    <updated>2015-01-22T00:37:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1947-announcing-github-enterprise-2-1-0"/>
+    <title>Announcing GitHub Enterprise 2.1.0</title>
+    <category>enterprise</category>
+    <content type="html">&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/4356597/5808874/1baf09f0-9fe7-11e4-9b36-cb1475367c53.jpg" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/4356597/5808874/1baf09f0-9fe7-11e4-9b36-cb1475367c53.jpg" alt="hero-2-1-release" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It's a new year and we couldn't think of a better way to start it off than with a new release of GitHub Enterprise. We've included a number of highly-requested features, along with some of the best stuff recently shipped on GitHub.com - all to give developers and admins the best tools to build and ship software at work. &lt;/p&gt;
+
+&lt;p&gt;Let's talk about some of the features you'll find in this release.&lt;/p&gt;
+
+&lt;h3&gt;Automate user and team management with LDAP Sync&lt;/h3&gt;
+
+&lt;p&gt;Many of you have told us that you want it to be easier to use GitHub Enterprise with LDAP, especially for organizations managing lots of users. With this release, GitHub Enterprise integrates with your LDAP directory more deeply than ever before, automating identity and access management for your organization. This means you can provision and deprovision user accounts in GitHub Enterprise directly from LDAP with user sync, and automatically grant users access to repositories with team sync. While we were at it, we also improved LDAP performance across the board, increasing reliability and throughput.&lt;/p&gt;
+
+&lt;h3&gt;Deploy GitHub Enterprise on OpenStack KVM&lt;/h3&gt;
+
+&lt;p&gt;One of our goals with &lt;a href="https://github.com/blog/1918-a-faster-more-flexible-github-enterprise"&gt;last year's rebuild of GitHub Enterprise&lt;/a&gt; was to make it available in more of the environments where you want to run it, whether you're managing your infrastructure on servers you own or on an internal cloud-based platform. That's why we're excited to announce that with this release, GitHub Enterprise is available on OpenStack KVM, in addition to &lt;a href="https://enterprise.github.com/aws"&gt;Amazon Web Services&lt;/a&gt; and VMware. If your tech stack is built on KVM, you can now easily set up GitHub Enterprise and integrate with other parts of your internal system. &lt;/p&gt;
+
+&lt;h3&gt;Audit all user actions across your instance&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href="https://github.com/blog/1872-improved-audit-log"&gt;Organization Audit Log&lt;/a&gt; that shipped with &lt;a href="https://github.com/blog/1918-a-faster-more-flexible-github-enterprise"&gt;the November release of GitHub Enterprise&lt;/a&gt; has now been expanded to the instance level, giving administrators a skimmable and searchable record of every action performed across GitHub Enterprise in the past 90 days. Events like repository creation, team deletion, the addition of webhooks, and more are surfaced in a running log, along with information about who performed the action and when it occurred. These events can be filtered for deeper analysis, and you can create a wide range of custom search queries to make sure you're always aware of what's taking place on your instance. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/1319791/5810448/a2bd7ada-a014-11e4-93f2-1b31b7c6d6ee.jpg" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/1319791/5810448/a2bd7ada-a014-11e4-93f2-1b31b7c6d6ee.jpg" alt="audit-log" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Monitor the performance of GitHub Enterprise&lt;/h3&gt;
+
+&lt;p&gt;If you're administering GitHub Enterprise, you should be able to identify whether your instance is performing correctly and quickly locate what's wrong when it isn't. With the new Instance Monitoring Dashboard, you now can. With data displayed for things like data disk usage, memory, CPUs, and more, you'll be able to answer questions like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Are my users experiencing errors?&lt;/li&gt;
+&lt;li&gt;Are things fast or slow for my users?&lt;/li&gt;
+&lt;li&gt;What is a typical traffic pattern? What is abnormal?&lt;/li&gt;
+&lt;li&gt;Should I upgrade CPU, memory, or IO to improve the performance of my instance?&lt;/li&gt;
+&lt;li&gt;When should I plan to increase my disk space given my current growth rate?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/1319791/5846686/95000f54-a193-11e4-924a-b268b0c43bc3.jpg" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/1319791/5846686/95000f54-a193-11e4-924a-b268b0c43bc3.jpg" alt="monitoring-dashboard" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Even more betterness&lt;/h3&gt;
+
+&lt;p&gt;GitHub Enterprise 2.1.0 also includes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1933-introducing-organization-webhooks"&gt;Organization webhooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1935-see-results-from-all-pull-request-status-checks"&gt;The pull requests UI to see results from multiple status checks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1902-svg-viewing-diffing"&gt;SVG file viewing and diffing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1901-managing-issues-and-pull-requests-across-repositories"&gt;&lt;code&gt;/pulls&lt;/code&gt; and &lt;code&gt;/issues&lt;/code&gt; dashboard pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1932-syntax-highlighted-diffs"&gt;Syntax highlighted diffs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1924-mobile-search"&gt;Mobile search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.github.com/v3/repos/deployments/"&gt;Deployments API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To see the full list of features and bug fixes, check out &lt;a href="https://enterprise.github.com/releases"&gt;the release notes&lt;/a&gt; for GitHub Enterprise 2.1.0.&lt;/p&gt;
+
+&lt;h3&gt;Take 2.1.0 for a spin&lt;/h3&gt;
+
+&lt;p&gt;If you're an existing GitHub Enterprise customer, you can &lt;a href="https://enterprise.github.com/download"&gt;download the latest release&lt;/a&gt; from the GitHub Enterprise website. If you want to give GitHub Enterprise a try, &lt;a href="https://enterprise.github.com/trial"&gt;start a 45-day free trial&lt;/a&gt; on OpenStack KVM, AWS, or VMware.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/1424?v=3&amp;s=60"/>
+    <author>
+      <name>mcolyer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1941</id>
+    <published>2015-01-19T19:45:14Z</published>
+    <updated>2015-01-19T19:51:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1941-organization-approved-applications"/>
+    <title>Organization-approved applications</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;Applications &lt;a href="https://github.com/integrations"&gt;integrate with GitHub&lt;/a&gt; to help you and your team build, test, and deploy software. But not all apps are created equal. By adopting a list of approved applications, organization admins can better manage which apps can be given access to their organization's data.&lt;/p&gt;
+
+&lt;h2&gt;Approve trusted applications&lt;/h2&gt;
+
+&lt;p&gt;If you're administering an organization on GitHub.com, you can set up a whitelist of trusted third-party applications.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/2988/5803370/e8024542-9fcb-11e4-8dc5-1810c2281e27.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/2988/5803370/e8024542-9fcb-11e4-8dc5-1810c2281e27.png" alt="organization-approved-applications" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With this protection in place, all applications need your explicit approval before they can access your organization's resources. You can grant access to your favorite continuous integration service (for example), while ignoring other applications that you may not trust or need.&lt;/p&gt;
+
+&lt;h2&gt;Request your favorite tools&lt;/h2&gt;
+
+&lt;p&gt;If you're a member of an organization and have a third-party application that you want to use, simply ask your organization's admins to approve access. They can then review the requested application to decide whether it should have access to your organization's data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/865/5805312/5701e842-9fd3-11e4-8f7b-a2bad994eb0a.gif" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/865/5805312/5701e842-9fd3-11e4-8f7b-a2bad994eb0a.gif" alt="request-organization-approval-for-an-app" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For more information on setting up a list of approved applications for your organization, be sure to check out the &lt;a href="https://help.github.com/articles/about-third-party-application-restrictions/"&gt;docs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you develop an app that integrates with GitHub, check out the &lt;a href="https://developer.github.com/changes/2015-01-19-an-integrators-guide-to-organization-application-policies/"&gt;Developer Blog&lt;/a&gt; for our latest recommendations on working with organizations and their data.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars2.githubusercontent.com/u/2988?v=3&amp;s=60"/>
+    <author>
+      <name>jasonrudolph</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1946</id>
+    <published>2015-01-19T19:29:20Z</published>
+    <updated>2015-01-19T19:29:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1946-create-pull-requests-with-github-for-mac"/>
+    <title>Create Pull Requests with GitHub for Mac</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;Pull requests are fantastic. We use them every day to review and discuss code, documentation, and designs. Now you can create pull requests without leaving the warm embrace of &lt;a href="https://mac.github.com"&gt;GitHub for Mac&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/13760/5697198/35b8c866-999f-11e4-91c1-7af538f2ced5.gif" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/13760/5697198/35b8c866-999f-11e4-91c1-7af538f2ced5.gif" alt="Create pull requests" width="284" height="454" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We've also made forks easier to work with. Forked repositories now automatically fetch their upstream repository, and its branches can be checked out or merged. No more futzing with the command line or multiple remotes!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/13760/5648436/886e7326-965c-11e4-9028-1a4192a14d2c.jpg" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/13760/5648436/886e7326-965c-11e4-9028-1a4192a14d2c.jpg" alt="Check out the upstream's branch" width="546" height="271" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://mac.github.com"&gt;Download GitHub for Mac&lt;/a&gt; and start sending pull requests!&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/13760?v=3&amp;s=60"/>
+    <author>
+      <name>joshaber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1945</id>
+    <published>2015-01-19T16:47:17Z</published>
+    <updated>2015-01-19T16:47:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1945-quick-pull-requests"/>
+    <title>Quick Pull Requests</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;Starting conversations around changes is what pull requests and &lt;a href="https://guides.github.com/introduction/flow/"&gt;GitHub Flow&lt;/a&gt; are all about, so we’re excited to introduce a powerful shortcut that gets you there even faster.&lt;/p&gt;
+
+&lt;p&gt;When &lt;a href="https://github.com/blog/1557-github-flow-in-the-browser"&gt;using your browser&lt;/a&gt; to edit a file on GitHub.com, the web-based commit composer lets you quickly propose a change to a new branch and then immediately open a pull request for discussion and review:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/296432/4485188/881f7a92-49c6-11e4-83dc-bee67d89c139.gif" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/296432/4485188/881f7a92-49c6-11e4-83dc-bee67d89c139.gif" alt="Selecting the new branch option to open a quick pull request" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Reducing the time it takes to open a pull request lowers the contribution barrier, and having this workflow available entirely within the browser makes collaboration more approachable for people with all technical skill levels.&lt;/p&gt;
+
+&lt;p&gt;To learn how GitHub Flow works, and whether it might be a good workflow to use on your projects, check out our guide on &lt;a href="https://guides.github.com/introduction/flow/"&gt;Understanding GitHub Flow&lt;/a&gt;.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars1.githubusercontent.com/u/296432?v=3&amp;s=60"/>
+    <author>
+      <name>cobyism</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1932</id>
+    <published>2014-12-09T18:10:20Z</published>
+    <updated>2014-12-09T18:10:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1932-syntax-highlighted-diffs"/>
+    <title>Syntax Highlighted Diffs</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;Unified and split diffs now feature syntax highlighting, which adds colors to your code to make its meaning and structure clearer. Now you can more easily understand the code that was changed in a commit, pull request, or review comment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/dotnet/corefx/commit/b71f3358e0d0bcfcb8a03e5ee222f38d460d70dc#diff-1"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/917945/5252624/4a0bc89c-796d-11e4-812c-c2cf74be5a0a.gif" alt="A diff with and without syntax highlighting" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;See it in action at &lt;a href="https://github.com/dotnet/corefx/commit/b71f3358e0d0bcfcb8a03e5ee222f38d460d70dc#diff-1"&gt;dotnet/corefx&lt;/a&gt; or your favorite repository.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/917945?v=3&amp;s=60"/>
+    <author>
+      <name>aroben</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1935</id>
+    <published>2014-12-08T20:09:50Z</published>
+    <updated>2014-12-08T20:09:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1935-see-results-from-all-pull-request-status-checks"/>
+    <title>See results from all pull request status checks</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;Since we introduced the &lt;a href="https://github.com/blog/1227-commit-status-api"&gt;Status API&lt;/a&gt;, you've been able to improve the quality of your code by including the status of a pull request within the conversation timeline, for every push. Before today, you've only been able to see results from one service. Now you can see all your results at once, from multiple CI systems that test your code against different platforms to simultaneous security testing and code coverage analysis. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/483/5332863/0f58f9b6-7e1a-11e4-9884-e362ec566f2b.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/483/5332863/0f58f9b6-7e1a-11e4-9884-e362ec566f2b.png" alt="screenshot of status area with a few statuses" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also see how the status of a pull request has changed over its history by clicking the icons listed next to individual commits.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/483/5324992/9caa6820-7c96-11e4-81cc-36bb8287e63d.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/483/5324992/9caa6820-7c96-11e4-81cc-36bb8287e63d.png" alt="screenshot of a commit with multiple statuses" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you're interested in how to set up your own statuses, take a look at our &lt;a href="https://developer.github.com/v3/repos/statuses/"&gt;Status API docs&lt;/a&gt; along with this guide to &lt;a href="https://developer.github.com/guides/building-a-ci-server/"&gt;building your own CI service&lt;/a&gt;. You can also check out some the services that use the Status API to help you &lt;a href="https://codeclimate.com/"&gt;keep your code clean&lt;/a&gt;, &lt;a href="https://travis-ci.org/"&gt;confirm your tests are passing&lt;/a&gt;, and &lt;a href="https://www.clahub.com/"&gt;make sure contributors have agreed to your CLA&lt;/a&gt;.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/483?v=3&amp;s=60"/>
+    <author>
+      <name>nakajima</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1933</id>
+    <published>2014-12-03T20:14:07Z</published>
+    <updated>2014-12-03T20:14:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1933-introducing-organization-webhooks"/>
+    <title>Introducing organization webhooks</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;Webhooks are now available at the organization level on GitHub.com. Organization webhooks send events for all repositories in an organization. They also include new events for repository creation, team membership, and more. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/136521/5205211/452bd834-754a-11e4-8a88-425c88ec2aa4.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/136521/5205211/452bd834-754a-11e4-8a88-425c88ec2aa4.png" alt="org hooks" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you're extending GitHub into your internal systems, organization webhooks save you time by helping you configure integrations across multiple repositories in one place. The addition of organizational-level events, like team membership, open up new possibilties for integrators building applications that work with GitHub.&lt;/p&gt;
+
+&lt;p&gt;For all the details, check out our updated &lt;a href="https://developer.github.com/webhooks/"&gt;webhook developer guide&lt;/a&gt;.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars1.githubusercontent.com/u/2513?v=3&amp;s=60"/>
+    <author>
+      <name>jdpace</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1925</id>
+    <published>2014-11-18T15:46:32Z</published>
+    <updated>2014-11-18T16:06:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1925-github-pages-legacy-ip-brownout"/>
+    <title>GitHub Pages legacy IP brownout</title>
+    <category>general</category>
+    <content type="html">&lt;p&gt;This week we will be conducting a "brownout" of all misconfigured GitHub Pages sites. If your GitHub Pages site's DNS is pointed at an out-of-date IP address, we will intermittently serve a warning page in place of your site's content. We will update &lt;a href="https://status.github.com"&gt;our status site&lt;/a&gt; before we do so, and normal functionality will resume at the conclusion of the brownout.&lt;/p&gt;
+
+&lt;p&gt;If you use a custom domain with GitHub Pages, please &lt;a href="https://github.com/blog/1917-github-pages-legacy-ip-deprecation"&gt;verify that your domain's DNS settings are properly configured to point to the most up-to-date GitHub IP addresses&lt;/a&gt;. This will ensure that your site remains available this week and continues to remain available after December 1st, 2014.&lt;/p&gt;
+
+&lt;p&gt;For information on how to tell if your site is affected and what to do to fix it, see the original &lt;a href="https://github.com/blog/1917-github-pages-legacy-ip-deprecation"&gt;GitHub Pages Legacy IP Deprecation announcement&lt;/a&gt; or the &lt;a href="https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/"&gt;setting up a custom domain with GitHub Pages&lt;/a&gt; documentation.&lt;/p&gt;
+
+&lt;p&gt;Of course, if you have any questions, &lt;a href="https://github.com/contact"&gt;we're here to help&lt;/a&gt;.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars1.githubusercontent.com/u/282759?v=3&amp;s=60"/>
+    <author>
+      <name>benbalter</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/1918</id>
+    <published>2014-11-11T15:04:37Z</published>
+    <updated>2014-11-11T19:15:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/1918-a-faster-more-flexible-github-enterprise"/>
+    <title>A faster, more flexible GitHub Enterprise</title>
+    <category>enterprise</category>
+    <content type="html">&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/72919/4742235/570aa1cc-5a1d-11e4-8aee-2aee5ef06f3d.jpg" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/72919/4742235/570aa1cc-5a1d-11e4-8aee-2aee5ef06f3d.jpg" alt="jetpack octocat" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, we’re releasing an &lt;a href="https://enterprise.github.com/releases/latest"&gt;all-new GitHub Enterprise&lt;/a&gt; designed to make it even easier for developers and businesses around the world to use GitHub at work.&lt;/p&gt;
+
+&lt;h3&gt;Now available on Amazon Web Services (AWS)&lt;/h3&gt;
+
+&lt;p&gt;Since &lt;a href="https://github.com/blog/978-introducing-github-enterprise"&gt;GitHub Enterprise launched in 2011&lt;/a&gt;, AWS's popularity has grown. Many companies want to host code in their AWS-powered cloud and with good reason. Using AWS reduces hardware costs, provides immediate access to a highly scalable infrastructure, and addresses a wide variety of compliance standards, from healthcare's HIPAA standards to government's FedRAMP. And now you can run &lt;a href="https://enterprise.github.com/aws"&gt;GitHub Enterprise on AWS&lt;/a&gt; too! We like to think it feels a little bit like this:&lt;/p&gt;
+
+&lt;iframe src="//player.vimeo.com/video/111525512?title=0&amp;amp;byline=0&amp;amp;portrait=0" width="685" height="386" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Infrastructure improvements, high availability, &amp;amp; backups&lt;/h3&gt;
+
+&lt;p&gt;We've rewritten the infrastructure behind GitHub Enterprise, improving stability and redundancy regardless of how you choose to deploy it. Some highlights:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GitHub Enterprise now utilizes Ubuntu 12.04 LTS, taking advantage of long-term updates and security fixes for the base components provided by Ubuntu.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://github.com/github/backup-utils"&gt;Online backup utilities&lt;/a&gt; give you a number of advanced capabilities for backing up and restoring your data. With these utilities your appliance doesn't need to be put in maintenance mode for the duration of the backup run, meaning there's no downtime for your development team.&lt;/li&gt;
+&lt;li&gt;Achieving redundancy with GitHub Enterprise is much easier. With replication mode enabled, you can configure a second, identical instance (failover with warm standby) to jump into action should anything happen to your primary instance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/2053865/4962134/099dece6-66d9-11e4-81ad-76a218f2c91d.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/2053865/4962134/099dece6-66d9-11e4-81ad-76a218f2c91d.png" alt="HA/DR image" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;SAML support &amp;amp; security audit log&lt;/h3&gt;
+
+&lt;p&gt;With our improved &lt;a href="https://github.com/blog/1872-improved-audit-log"&gt;organization audit log&lt;/a&gt;, admins can now see a running list of events as they're generated across each organization and search for specific activities performed by users. This data provides your company with better security insights and gives you the ability to audit account, team, and repository access over time as needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/79995/3986436/f184b7ba-289a-11e4-8018-505d2310b02a.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/79995/3986436/f184b7ba-289a-11e4-8018-505d2310b02a.png" alt="audit-log" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We've also added support for SAML, including OneLogin, PingIdentity, Okta, and Shibboleth. Single sign-on with these identity providers allows you to manage your organization's users from one place or manage app access for groups of users at a time, rather than individually.&lt;/p&gt;
+
+&lt;h3&gt;...and more!&lt;/h3&gt;
+
+&lt;p&gt;This release also includes a number of features to help your company build and ship high-quality software, including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1884-introducing-split-diffs"&gt;Split diffs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/811-reply-to-comments-from-email"&gt;Comment reply by email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1852-a-better-branches-page"&gt;A better branches page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1857-introducing-the-revert-button"&gt;The pull request revert button&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1847-locking-conversations"&gt;Locking conversations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1866-the-new-github-issues"&gt;Issue search and filtering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1866-the-new-github-issues"&gt;New labels and milestones pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1866-the-new-github-issues"&gt;Issue assignment notifications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1866-the-new-github-issues"&gt;Deployment status on pull requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1845-psd-viewing-diffing"&gt;PSD Rendering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blog/1867-github-pages-now-runs-jekyll-2-2-0"&gt;GitHub Pages upgrade to Jekyll 2.2.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To see a full list of features, check out the &lt;a href="https://enterprise.github.com/releases"&gt;release notes&lt;/a&gt; for GitHub Enterprise 2.0.0.&lt;/p&gt;
+
+&lt;h3&gt;Give GitHub Enterprise a whirl&lt;/h3&gt;
+
+&lt;p&gt;If you're an existing GitHub Enterprise customer, you can &lt;a href="https://enterprise.github.com/download"&gt;download the latest release&lt;/a&gt; from the Enterprise website. If you want to give GitHub Enterprise a try, you can start &lt;a href="https://enterprise.github.com/trial"&gt;a 45-day free trial&lt;/a&gt; on AWS or VMware.&lt;/p&gt;
+
+&lt;h3&gt;Come visit us at AWS re:Invent&lt;/h3&gt;
+
+&lt;p&gt;We’ll be demoing the all-new GitHub Enterprise this week at &lt;a href="https://reinvent.awsevents.com/"&gt;AWS re:Invent&lt;/a&gt; in Las Vegas. Stop by booth #1229 to say hi, check out this release in action, and grab some stickers and other great stuff. If you're attending re:Invent and would like a more in depth look at how this release of GitHub Enterprise might help your company, &lt;a href="https://github.typeform.com/to/gOQmLE"&gt;sign up for a meeting&lt;/a&gt; with our GitHub Enterprise sales team.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/1424?v=3&amp;s=60"/>
+    <author>
+      <name>mcolyer</name>
+    </author>
+  </entry>
+</feed>

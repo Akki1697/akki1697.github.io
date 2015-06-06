@@ -1,0 +1,142 @@
+From ebd806cf4bcfabae7cabfa23bb64916e607dd41c Mon Sep 17 00:00:00 2001
+From: Roque Pinel <repinel@gmail.com>
+Date: Wed, 3 Jun 2015 22:02:25 -0500
+Subject: [PATCH 1/3] Use inline Gemfile dependency when reporting bugs
+
+With Bundler `1.10.3`, it is possible to list the gems inline without the
+need to create a `Gemfile` if none is found in the current directory.
+---
+ .../bug_report_templates/action_controller_master.rb  | 17 ++++++-----------
+ guides/bug_report_templates/active_record_master.rb   | 19 +++++++------------
+ guides/bug_report_templates/generic_master.rb         | 15 +++++----------
+ 3 files changed, 18 insertions(+), 33 deletions(-)
+
+diff --git a/guides/bug_report_templates/action_controller_master.rb b/guides/bug_report_templates/action_controller_master.rb
+index 9be8130..1a5cb4d 100644
+--- a/guides/bug_report_templates/action_controller_master.rb
++++ b/guides/bug_report_templates/action_controller_master.rb
+@@ -1,15 +1,10 @@
+-unless File.exist?('Gemfile')
+-  File.write('Gemfile', <<-GEMFILE)
+-    source 'https://rubygems.org'
+-    gem 'rails', github: 'rails/rails'
+-    gem 'arel', github: 'rails/arel'
+-  GEMFILE
+-
+-  system 'bundle'
+-end
++require 'bundler/inline'
+ 
+-require 'bundler'
+-Bundler.setup(:default)
++gemfile(true) do
++  source 'https://rubygems.org'
++  gem 'rails', github: 'rails/rails'
++  gem 'arel', github: 'rails/arel'
++end
+ 
+ require 'rails'
+ require 'action_controller/railtie'
+diff --git a/guides/bug_report_templates/active_record_master.rb b/guides/bug_report_templates/active_record_master.rb
+index 9557f0b..c69b041 100644
+--- a/guides/bug_report_templates/active_record_master.rb
++++ b/guides/bug_report_templates/active_record_master.rb
+@@ -1,16 +1,11 @@
+-unless File.exist?('Gemfile')
+-  File.write('Gemfile', <<-GEMFILE)
+-    source 'https://rubygems.org'
+-    gem 'rails', github: 'rails/rails'
+-    gem 'arel', github: 'rails/arel'
+-    gem 'sqlite3'
+-  GEMFILE
+-
+-  system 'bundle'
+-end
++require 'bundler/inline'
+ 
+-require 'bundler'
+-Bundler.setup(:default)
++gemfile(true) do
++  source 'https://rubygems.org'
++  gem 'rails', github: 'rails/rails'
++  gem 'arel', github: 'rails/arel'
++  gem 'sqlite3'
++end
+ 
+ require 'active_record'
+ require 'minitest/autorun'
+diff --git a/guides/bug_report_templates/generic_master.rb b/guides/bug_report_templates/generic_master.rb
+index d930482..4ed34e1 100644
+--- a/guides/bug_report_templates/generic_master.rb
++++ b/guides/bug_report_templates/generic_master.rb
+@@ -1,16 +1,11 @@
+-unless File.exist?('Gemfile')
+-  File.write('Gemfile', <<-GEMFILE)
+-    source 'https://rubygems.org'
+-    gem 'rails', github: 'rails/rails'
+-    gem 'arel', github: 'rails/arel'
+-  GEMFILE
++require 'bundler/inline'
+ 
+-  system 'bundle'
++gemfile(true) do
++  source 'https://rubygems.org'
++  gem 'rails', github: 'rails/rails'
++  gem 'arel', github: 'rails/arel'
+ end
+ 
+-require 'bundler'
+-Bundler.setup(:default)
+-
+ require 'active_support'
+ require 'active_support/core_ext/object/blank'
+ require 'minitest/autorun'
+
+From bb5ffb77ccf5771468e1807dfdb476ce70f51519 Mon Sep 17 00:00:00 2001
+From: Jimmy Cuadra <jimmy@jimmycuadra.com>
+Date: Thu, 4 Jun 2015 13:20:43 -0700
+Subject: [PATCH 2/3] Require active_support/duration.
+
+ActiveSupport::TimeWithZone references `ActiveSupport::Duration` but
+does not require it, which can result in a `LoadError` when required
+directly without requiring a component less granular like
+`active_support/time`, where the autoload for `ActiveSupport::Duration`
+is set up.
+---
+ activesupport/lib/active_support/time_with_zone.rb | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/activesupport/lib/active_support/time_with_zone.rb b/activesupport/lib/active_support/time_with_zone.rb
+index b0d7f32..412c72d 100644
+--- a/activesupport/lib/active_support/time_with_zone.rb
++++ b/activesupport/lib/active_support/time_with_zone.rb
+@@ -1,3 +1,4 @@
++require 'active_support/duration'
+ require 'active_support/values/time_zone'
+ require 'active_support/core_ext/object/acts_like'
+ 
+
+From cc849b609e3bac6cf6fc914df790486e9d373643 Mon Sep 17 00:00:00 2001
+From: Teo Ljungberg <teo@teoljungberg.com>
+Date: Fri, 5 Jun 2015 11:29:03 +0200
+Subject: [PATCH 3/3] Fix `thoughtbot` capitalization
+
+The company name is spelled `thoughtbot` per
+https://github.com/thoughtbot/presskit/blob/master/README.md#name
+---
+ activesupport/lib/active_support/backtrace_cleaner.rb | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/activesupport/lib/active_support/backtrace_cleaner.rb b/activesupport/lib/active_support/backtrace_cleaner.rb
+index d06f22a..e161ec4 100644
+--- a/activesupport/lib/active_support/backtrace_cleaner.rb
++++ b/activesupport/lib/active_support/backtrace_cleaner.rb
+@@ -25,7 +25,7 @@ module ActiveSupport
+   # of the backtrace, you can call <tt>BacktraceCleaner#remove_filters!</tt>
+   # These two methods will give you a completely untouched backtrace.
+   #
+-  # Inspired by the Quiet Backtrace gem by Thoughtbot.
++  # Inspired by the Quiet Backtrace gem by thoughtbot.
+   class BacktraceCleaner
+     def initialize
+       @filters, @silencers = [], []

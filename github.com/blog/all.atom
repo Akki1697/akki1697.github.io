@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>tag:github.com,2008:/blog/all</id>
+  <link rel="alternate" type="text/html" href="https://github.com/blog"/>
+  <link rel="self" type="application/atom+xml" href="https://github.com/blog/all.atom"/>
+  <title>The GitHub Blog</title>
+  <updated>2015-06-04T06:54:40Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Post/2017</id>
+    <published>2015-06-04T06:00:44Z</published>
+    <updated>2015-06-04T06:54:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2017-announcing-github-japan"/>
+    <title>Announcing GitHub Japan</title>
+    <category>general</category>
+    <content type="html">&lt;p&gt;GitHub &amp;lt;3s Japan, and today we’re excited to announce the formation of GitHub Japan G.K., a subsidiary of GitHub, Inc. Our new office in Tokyo is our first official office outside of the United States. &lt;/p&gt;
+
+&lt;h3&gt;The Japanese developer community&lt;/h3&gt;
+
+&lt;p&gt;GitHub couldn’t exist without the Japanese open source community — after all, our site is built on &lt;a href="https://github.com/rails/rails"&gt;Rails&lt;/a&gt;, which is built on &lt;a href="https://github.com/ruby/ruby"&gt;Ruby&lt;/a&gt;, an open source project &lt;a href="https://www.ruby-lang.org/en/about/"&gt;started in Japan&lt;/a&gt;. Japan has historically been one of the most active countries on GitHub, ranking in the top 10 countries visiting github.com since GitHub was founded in 2008. The thriving software community in Japan keeps growing; in 2014, activity on github.com from Japan increased more than 60 percent from the previous year. &lt;/p&gt;
+
+&lt;h3&gt;GitHub Enterprise in Japan&lt;/h3&gt;
+
+&lt;p&gt;In addition to an active local open source community, Japanese businesses including &lt;a href="http://www.hitachi-systems.com/eng/"&gt;Hitachi Systems&lt;/a&gt;, &lt;a href="https://enterprise.github.com/stories/cyberagent"&gt;CyberAgent&lt;/a&gt; and &lt;a href="https://www.youtube.com/watch?v=j1-G14EJRQ8"&gt;GREE&lt;/a&gt; are collaborating and building the best software with GitHub Enterprise. To that end, we’re also announcing that we'll be partnering locally to provide Japanese language technical support for GitHub Enterprise users, as well as the ability to pay in Japanese Yen in Japan. &lt;/p&gt;
+
+&lt;h3&gt;Stay up to date&lt;/h3&gt;
+
+&lt;p&gt;Keep tabs on everything happening in our Tokyo office by following &lt;a href="https://twitter.com/githubjapan"&gt;@GitHubJapan&lt;/a&gt; on Twitter and checking out &lt;a href="http://github.co.jp/"&gt;github.co.jp&lt;/a&gt;. We’d also love to see you at our &lt;a href="http://ptix.co/1cIsp83"&gt;meetup in Osaka on June 6&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Yoroshiku-Onegaiitashimasu!&lt;/p&gt;
+
+&lt;h1&gt;初めましてGitHub Japanです！&lt;/h1&gt;
+
+&lt;p&gt;GitHub &amp;lt;3s Japan, 本日、私達はGitHub, Inc.の子会社である、GitHub Japan合同会社の設立の発表ができる事をとても光栄に思っております 。東京にオープンした新しいオフィスは、米国外でオープンする初のオフィスになります。&lt;/p&gt;
+
+&lt;h3&gt;〜日本のデベロッパー・コミュニティにむけて〜&lt;/h3&gt;
+
+&lt;p&gt;GitHubは、日本で生まれたオープンソース・プロジェクトのRubyで作られたRailsというフレームワークによって開発されており、日本のオープンソース・コミュニティーなしではGitHubは存在しえないと言っては過言ではない程、日本とGitHubは深いつながりがあります。
+また、2008年のGitHub設立当初から、日本からgithub.comへのアクセス数は上位10ヶ国に入り続けてきました。そして、日本のユーザーは現在も増加し続けており、2014年の日本ユーザーのGitHub上でのアクティビティは、前年比60％も増加しました。&lt;/p&gt;
+
+&lt;h3&gt;～「GitHub Enterprise」の日本展開～&lt;/h3&gt;
+
+&lt;p&gt;GitHubは広く開かれた開発を支援するオープンソース・プラットフォーム以外にも、全世界で企業向けに「GitHub Enterprise」を提供して参りました。これまで「GitHub Enterprise」は、英語でのサポートのみだったにもかかわらず、日本国内では、&lt;a href="http://www.hitachi-systems.com/"&gt;株式会社日立システムズ&lt;/a&gt;、&lt;a href="http://www.yahoo.co.jp/"&gt;ヤフー株式会社&lt;/a&gt;、&lt;a href="https://enterprise.github.com/stories/cyberagent"&gt;株式会社サイバーエージェント&lt;/a&gt;や&lt;a href="https://www.youtube.com/watch?v=j1-G14EJRQ8"&gt;グリー株式会社&lt;/a&gt; などの大手企業をはじめとして、多くの先進的な企業にご活用頂いて参りました。そして今回、さらに迅速できめ細かいサービスやサポートを提供するため、GitHubは大手代理店と業務提携を行い、日本語による「GitHub Enterprise」の法人向け導入サポートも開始しました。この販売パートナー提携により、円建て決済や日本語のテクニカルサポートも可能になります。&lt;/p&gt;
+
+&lt;h3&gt;GitHub の最新の情報を得よう&lt;/h3&gt;
+
+&lt;p&gt;東京オフィスで何が起こっているか知る為にはTwitterで  &lt;a href="https://twitter.com/githubjapan"&gt;@GitHubJapan&lt;/a&gt; をフォローするか、 &lt;a href="http://github.co.jp/"&gt;github.co.jp&lt;/a&gt;にアクセスしてくださいね。そして&lt;a href="http://ptix.co/1cIsp83"&gt;大阪で開催されるuser meetup&lt;/a&gt; にも是非お越しください！ お待ちしております！.&lt;/p&gt;
+
+&lt;p&gt;よろしくお願い致します！&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars1.githubusercontent.com/u/676836?v=3&amp;s=60"/>
+    <author>
+      <name>dice</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2018</id>
+    <published>2015-06-03T20:45:30Z</published>
+    <updated>2015-06-03T20:45:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2018-atom-at-codeconf-2015"/>
+    <title>Atom at CodeConf 2015 </title>
+    <category>conferences</category>
+    <content type="html">&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/4154342/7970619/2b15c3e4-09f4-11e5-89e0-1affcfcf80ba.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/4154342/7970619/2b15c3e4-09f4-11e5-89e0-1affcfcf80ba.png" alt="atom" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://codeconf.com"&gt;CodeConf&lt;/a&gt; is coming June 25 &amp;amp; 26 to Nashville and will feature the best that the open source community has to offer.&lt;/p&gt;
+
+&lt;p&gt;We're excited to share that there will be several talks about the &lt;a href="https://atom.io/"&gt;Atom&lt;/a&gt; ecosystem presented for your enjoyment and edification, kicked off by GitHub CEO &lt;a href="https://github.com/defunkt"&gt;Chris Wanstrath&lt;/a&gt;. Speakers will include: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://github.com/bolinfest"&gt;@bolinfest&lt;/a&gt; talking about &lt;a href="http://nuclide.io"&gt;Nuclide&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://github.com/lee-dohm"&gt;@lee-dohm&lt;/a&gt; talking about the Atom community&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://github.com/paulcbetts"&gt;@paulcbetts&lt;/a&gt; talking about &lt;a href="https://slack.com"&gt;Slack&lt;/a&gt; and &lt;a href="http://electron.atom.io"&gt;Electron&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will also be hosting an Atom workshop led by &lt;a href="https://github.com/nathansobo"&gt;Nathan Sobo&lt;/a&gt;, and a lounge where you will be able to meet with the core team and hack on Atom together.  &lt;/p&gt;
+
+&lt;p&gt;Grab your &lt;a href="http://www.ticketbase.com/events/codeconf-2015"&gt;CodeConf and workshop tickets now&lt;/a&gt; and we'll see you there in Nashville! &lt;/p&gt;
+
+&lt;iframe width="685" height="385" src="https://www.youtube.com/embed/QEFEdkFaFVk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content>
+    <media:thumbnail url="https://avatars2.githubusercontent.com/u/4154342?v=3&amp;s=60"/>
+    <author>
+      <name>kelseyschimm</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2014</id>
+    <published>2015-06-02T20:16:29Z</published>
+    <updated>2015-06-02T20:16:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2014-filter-pull-requests-by-status"/>
+    <title>Filter Pull Requests by Status</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;When we shipped &lt;a href="https://github.com/blog/1866-the-new-github-issues"&gt;the new GitHub Issues&lt;/a&gt;, we made it easy to &lt;a href="https://help.github.com/articles/searching-issues/"&gt;scope lists of Issues and Pull Requests&lt;/a&gt; with filters like author, date, mentions, and team mentions. With the new &lt;code&gt;status:&lt;/code&gt; filter you can now filter the Pull Requests in your repositories by &lt;a href="https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref"&gt;combined status&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/483/7819956/1422929e-039a-11e5-98d5-f273b9fe4472.gif" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/483/7819956/1422929e-039a-11e5-98d5-f273b9fe4472.gif" alt="example gif of filtering by status" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you're taking advantage of the &lt;a href="https://developer.github.com/v3/repos/statuses/"&gt;Status API&lt;/a&gt;, or using an integration that does, try out the new filters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;code&gt;status:success&lt;/code&gt; Only pull requests with all successful statuses&lt;/li&gt;
+&lt;li&gt;
+&lt;code&gt;status:failure&lt;/code&gt; Only pull requests that have statuses in the &lt;code&gt;failure&lt;/code&gt; or &lt;code&gt;error&lt;/code&gt; state&lt;/li&gt;
+&lt;li&gt;
+&lt;code&gt;status:pending&lt;/code&gt; Only pull requests with no statuses or at least one status in the &lt;code&gt;pending&lt;/code&gt; state&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/483?v=3&amp;s=60"/>
+    <author>
+      <name>nakajima</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2015</id>
+    <published>2015-06-02T19:05:45Z</published>
+    <updated>2015-06-02T19:05:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2015-focus-on-your-changes-in-github-for-windows"/>
+    <title> Focus on your changes in GitHub for Windows</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;GitHub for Windows now makes it even easier to see everything local to your machine, whether it's uncommitted changes or commits you haven't synced yet.&lt;/p&gt;
+
+&lt;p&gt;One of the things you'll notice when creating commits is the new, compact list of changed files in your working directory. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/634063/7920112/0f2085a0-089d-11e5-804b-d42eff5b5987.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/634063/7920112/0f2085a0-089d-11e5-804b-d42eff5b5987.png" alt="Dedicated view of your local changes" style="max-width:100%;"&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;GitHub for Windows shows the number of files that a commit changed and lets you drill down to see what changed in a given file.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/634063/7920127/295d7c3e-089d-11e5-9209-8592a431a208.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/634063/7920127/295d7c3e-089d-11e5-9209-8592a431a208.png" alt="Commit lists now show number of files and lets you select individual files to view changes for" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The updated branch selector now groups your recently used branches so that you can jump straight back in to what you were doing before that pesky hotfix distracted you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/634063/7920242/011e3d8e-089e-11e5-972c-c9c5ca5ff386.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/634063/7920242/011e3d8e-089e-11e5-972c-c9c5ca5ff386.png" alt="New branch selector lets you see recently checked out branches" style="max-width:100%;"&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;We've given branch creation a dedicated place in the toolbar. As a bonus, you can pick which branch to base the new one off.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/634063/7920243/0122381c-089e-11e5-9d52-d82b168d49f4.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/634063/7920243/0122381c-089e-11e5-9d52-d82b168d49f4.png" alt="The new create branch popover lets you pick which base branch to use for your new branch" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, you can collapse the repository list to reclaim some screen space.&lt;/p&gt;
+
+&lt;p&gt;If you have GitHub for Windows installed it will automatically update to the latest version. If you don't have it installed, download GitHub for Windows from &lt;a href="https://windows.github.com"&gt;windows.github.com&lt;/a&gt;.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars1.githubusercontent.com/u/634063?v=3&amp;s=60"/>
+    <author>
+      <name>niik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2016</id>
+    <published>2015-06-02T17:01:00Z</published>
+    <updated>2015-06-02T17:01:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2016-support-lgbtq-tech-organizations-with-the-pridetocat-shirt"/>
+    <title>Support LGBTQ tech organizations with the Pridetocat Shirt</title>
+    <category>general</category>
+    <content type="html">&lt;p&gt;With the purchase of the Pridetocat Shirt you will be assisting &lt;a href="http://www.lesbianswhotech.org"&gt;Lesbians Who Tech&lt;/a&gt;,
+&lt;a href="http://www.mymaven.org"&gt;Maven&lt;/a&gt;, and &lt;a href="http://www.transhack.org"&gt;Trans*H4CK&lt;/a&gt; to further their work.  All proceeds from sales will be donated to these organizations that are helping educate, connect and empower LGBTQ people in tech.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://github.myshopify.com/products/pridetocat-shirt"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/5945961/7922248/daa5a220-085f-11e5-88fa-308dfd374aea.jpg" alt="Pridetocat Shirts" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This limited edition shirt is available in the &lt;a href="http://github.myshopify.com/"&gt;GitHub Shop&lt;/a&gt; until August 31st.&lt;/p&gt;
+
+&lt;p&gt;More info about the LGBTQ tech organizations that benefit from the purchase of this shirt:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesbians Who Tech&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.lesbianswhotech.org"&gt;Lesbians Who Tech&lt;/a&gt; is a global community of 9,000 queer women in tech. It exists to provide value to queer women in tech, a demographic that is rarely represented in both the tech community and the LGBTQ community. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trans*H4CK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.transhack.org"&gt;Trans*H4CK&lt;/a&gt; is a hackathon and speaker series that tackles social problems by developing new and useful open source tech products that benefit the trans and gender non-conforming communities, while bringing visibility to transgender tech innovators and entrepreneurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maven&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.mymaven.org"&gt;Maven&lt;/a&gt; partner with local LGBTQA youth serving organizations and LGBTQA tech professionals to provide free tech camps, workshops, Game Jams/hackathons for the queer youth community.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/5945961?v=3&amp;s=60"/>
+    <author>
+      <name>bfire</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2010</id>
+    <published>2015-05-28T20:30:00Z</published>
+    <updated>2015-05-28T20:30:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2010-diversity-partners-for-codeconf-2015"/>
+    <title>Diversity Partners for CodeConf 2015</title>
+    <category>conferences</category>
+    <content type="html">&lt;p&gt;When a diverse set of presenters and participants comes together for a conference, everyone benefits from the variety of experiences, perspectives and voices in the room. We realize, however, that ticket costs can sometimes be prohibitive for individuals from underrepresented groups. That's why we've partnered with six fantastic organizations to distribute &lt;a href="http://codeconf.com"&gt;CodeConf&lt;/a&gt; tickets to their members. Each one has a mission to connect, support and/or educate people from backgrounds underrepresented in tech. This will help us build a diverse audience and a great experience for everyone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/2394243/7819632/f46ca1c4-03da-11e5-9851-8a77ad6ca5a3.jpg" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/2394243/7819632/f46ca1c4-03da-11e5-9851-8a77ad6ca5a3.jpg" alt="untitled" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our partner groups have shared a little more about their work and upcoming projects, as well as details of how they're distributing their CodeConf tickets. Read on to get inspired, involved, and potentially grab a ticket for yourself, and remember too that you can help on a personal level by choosing to purchase the "scholarship" ticket option on the
+&lt;a href="http://www.ticketbase.com/events/codeconf-2015"&gt;registration page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1&gt;Black Girls CODE&lt;/h1&gt;
+
+&lt;p&gt;Black Girls CODE is an international non-profit that empowers young women of color to enter the tech space as builders and creators by introducing them to coding and technology. &lt;a href="http://www.blackgirlscode.org"&gt;www.blackgirlscode.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Upcoming events:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;June 19th - 21st:&lt;/strong&gt; All Girls Hackathon, Oakland&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;June 20th:&lt;/strong&gt; Oracle Academy's Greenfoot brought to you by Black Girls CODE, Memphis&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;June 20th:&lt;/strong&gt; Introduction to Javascript Workshop, New York&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;July 24th-26th:&lt;/strong&gt; All Girls Hackathon, New York&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;July:&lt;/strong&gt; 1 week summer camps, Raleigh, NC and Washington D.C.&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;August:&lt;/strong&gt; 1 week summer camps, Bay Area and New York&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ticket Details&lt;/strong&gt;: We will be distributing our tickets directly to the Black Girls CODE network.&lt;/p&gt;
+
+&lt;h1&gt;Coding While Black&lt;/h1&gt;
+
+&lt;p&gt;Coding While Black is headquartered in Chicago; our focus is code education, professional development, and entrepreneurship. We welcome blacks in technology from around the globe to become active members of a growing community that supports, encourages, and connects black technology professionals. Members can post articles, share events, find other black technology professionals to connect with, and enjoy community features. &lt;a href="http://www.codingwhileblack.com"&gt;www.codingwhileblack.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ticket details&lt;/strong&gt;: Coding While Black is excited to partner in promoting CodeConf to a diverse audience. We will be distributing the tickets by sharing them with members who have volunteered with us and/or have been active participants in our community.&lt;/p&gt;
+
+&lt;h1&gt;Girl Geek Dinner Nashville&lt;/h1&gt;
+
+&lt;p&gt;The Nashville chapter of Girl Geek Dinner was founded with the goal to encourage and inspire Nashville’s young women and girls to pursue technology careers. Girl Geek Dinners have grown into an international movement. The ask is simple to sponsors — buy dinner and drinks for girl geeks, invite speakers and encourage networking amongst the girl geeks. &lt;a href="http://www.ggdnashville.com"&gt;www.ggdnashville.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Upcoming events:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;June 5th:&lt;/strong&gt; Eventbrite is hosting our next Girl Geek Dinner where they are flying in 3 Software Engineers and a Product Manager to Nashville to give lighting tech talks.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Third Thursday of every month:&lt;/strong&gt; Code &amp;amp; Pinot night is a great opportunity for beginner programmers to come out and get a taste of what programming is like. Bring your favorite wine and learn to code! Food provided.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ticket details&lt;/strong&gt;: We plan to distribute the tickets to our Girl Geeks through a coding contest and drawing. Coding contest: the first to give the correct answer will get a ticket.  Drawing: we will randomly select a winner from contest entries.&lt;/p&gt;
+
+&lt;h1&gt;Lesbians Who Tech&lt;/h1&gt;
+
+&lt;p&gt;Lesbians Who Tech is a global community of 9,000 queer women in tech. It exists to provide value to queer women in tech, a demographic that is rarely represented in both the tech community and the LGBTQ community. We've hosted events in 22 cities worldwide and focus on connecting our community, increasing visibility and increasing women in tech and leadership positions. &lt;a href="http://www.lesbianswhotech.org"&gt;www.lesbianswhotech.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Upcoming events:&lt;/strong&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;August 27th-30th:&lt;/strong&gt; &lt;a href="http://lesbianswhotech.org/berlinsummit/"&gt;Lesbians Who Tech (and allies)
+European Summit&lt;/a&gt;, Berlin&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;October 1st-4th:&lt;/strong&gt; &lt;a href="http://lesbianswhotech.org/newyorksummit/"&gt;Tech &amp;amp; Innovation Summit&lt;/a&gt;, NYC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ticket details&lt;/strong&gt;: We'll be offering the tickets through Lesbians Who Tech chapters in the Midwest&lt;/p&gt;
+
+&lt;h1&gt;Rails Girls Atlanta&lt;/h1&gt;
+
+&lt;p&gt;Rails Girls Atlanta is an encouraging place for women to take the plunge into learning to code. We host monthly meetups and socials where dev-minded ladies can ask questions, learn from others, and get the support they need to be successful. &lt;a href="http://www.meetup.com/Rails-Girls-Atlanta"&gt;www.meetup.com/Rails-Girls-Atlanta&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Upcoming events:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;June 1st:&lt;/strong&gt; All the Nerdy Ladies Social at Joystick. No agenda, just a time to visit and catch up with other nerdy lady types.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ticket details&lt;/strong&gt;: We’re planning to raffle off the tickets at our May meetup.&lt;/p&gt;
+
+&lt;h1&gt;Trans*H4CK&lt;/h1&gt;
+
+&lt;p&gt;Trans*H4CK is a hackathon and speaker series that tackles social problems by developing new and useful open source tech products that benefit the trans and gender non-conforming communities, while bringing visibility to transgender tech innovators and entrepreneurs.&lt;/p&gt;
+
+&lt;p&gt;We are planning to launch an online hackathon space this year--stay tuned! &lt;a href="http://www.transhack.org"&gt;http://www.transhack.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ticket details&lt;/strong&gt;: We will be distributing our CodeConf tickets through the Trans*H4CK network.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars3.githubusercontent.com/u/2394243?v=3&amp;s=60"/>
+    <author>
+      <name>ciaramcguire</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2011</id>
+    <published>2015-05-26T18:56:25Z</published>
+    <updated>2015-05-26T18:56:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2011-transforming-the-future-of-nasa-with-codeconf-s-ariel-waldman"/>
+    <title>Transforming the Future of NASA with CodeConf's Ariel Waldman </title>
+    <category>conferences</category>
+    <content type="html">&lt;p&gt;&lt;a href="http://codeconf.com/"&gt;CodeConf 2015&lt;/a&gt; will take place in Nashville on June 25 and 26. Ariel Waldman is one of many incredible speakers that will take the stage at the Bell Tower to share her expertise. We asked her some questions about her experiences at NASA, her vision for the future, and more. Check out her answers below! &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/4154342/7820484/84684f82-039d-11e5-93ef-3a6b726df867.jpg" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/4154342/7820484/84684f82-039d-11e5-93ef-3a6b726df867.jpg" alt="ariel" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: Why is collaboration important to you, and how do you think it can further scientific exploration and discovery?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A: To me, multidisciplinary collaboration is at the heart of furthering scientific exploration and discovery. In my work, I especially focus on unusual collaborations between people from different backgrounds. By having a fresh set of eyes from those who solve problems across a wide range of industries, new concepts emerge and go on to influence scientific processes, communication and discoveries in unexpected ways. Science doesn't require serendipity, but I'd argue it's significantly disadvantaged without it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: You spoke at the very first CodeConf in 2011, and we’re excited to have you back since you’ve been doing so much exciting stuff in the meantime. What was your experience of CodeConf 2011, and what are you looking forward to seeing at CodeConf 2015?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A: CodeConf was fantastic. The community was so excited to have a wide range of topics at a "code" conference and I think it really helped open everyone up to new opportunities and aspirations. I think what made CodeConf 2011, and what will make CodeConf 2015, so special was the unexpected connections people end up drawing and a broadening of how big the universe to play in is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: GitHub had the pleasure of hosting &lt;a href="http://sciencehackday.org/"&gt;Science Hack Day&lt;/a&gt; in 2014, and we’ll do so again this year. What is the purpose of Science Hack Day, and what were some of the most exciting projects to come out of that event?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A: The mission of Science Hack Day is to get excited and make things with science! Science Hack Day is a 2-day-all-night event where anyone excited about making weird, silly or serious things with science comes together in the same physical space to see what they can prototype within 24 consecutive hours. Designers, developers, scientists and anyone who is excited about making things with science are welcome to attend – no experience in science or hacking is necessary, just an insatiable curiosity.&lt;/p&gt;
+
+&lt;p&gt;One of the projects I loved that came out of the Science Hack Day SF at GitHub last year was an interactive planetarium where you could explore the distance between stars, planets and constellations using your hands via a Kinect. I loved the idea of making a planetarium more physical. Because the code was made open source on GitHub, the project was then hacked on further and installed as a temporary exhibit at the American Museum of Natural History in NYC, where school kids, families and even an astronaut got to try it out!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: Tell us about &lt;a href="http://www.nasa.gov/directorates/spacetech/niac/index.html"&gt;NASA Innovative Advanced Concepts (NIAC)&lt;/a&gt;. How can we participate in and contribute to the vision of this project?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A: NASA Innovative Advanced Concepts (NIAC) is arguably the coolest program at NASA - they fund and nurture all the radical, sci-fi-esque ideas that could one day transform future space missions. Submarines on Titan, human hibernation to Mars, comet hitchhiking space probes, you name it. Some utilize computer science and computer vision techniques – one project analyzes light versus dark areas on the Moon so that a lunar rover could navigate staying in continuous sunlight, thus able to be more efficient by having continuous solar power. The cool thing about NIAC is that they accept proposals from anyone every year around October, so if you have a credible idea you'd like to do further research and prototyping on that could transform a future space mission, you can apply!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/arielwaldman"&gt;Follow Ariel on Twitter&lt;/a&gt; for more updates on all of her projects, and &lt;a href="http://www.ticketbase.com/events/codeconf-2015"&gt;grab your CodeConf ticket now&lt;/a&gt;! We can't wait to see you in Nashville next month. &lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars2.githubusercontent.com/u/4154342?v=3&amp;s=60"/>
+    <author>
+      <name>kelseyschimm</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2007</id>
+    <published>2015-05-26T18:02:08Z</published>
+    <updated>2015-05-26T18:02:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2007-adding-a-billing-manager-to-your-organization"/>
+    <title>Adding a billing manager to your organization</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;With the new &lt;em&gt;billing manager&lt;/em&gt; role, you can invite individuals to manage the billing details of your organization without giving them access to code. The new role enables a user to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Upgrade or downgrade the organization’s plan.&lt;/li&gt;
+&lt;li&gt;Update payment details like the credit card on file.&lt;/li&gt;
+&lt;li&gt;View history of past transactions and download receipts.&lt;/li&gt;
+&lt;li&gt;Receive receipts via email.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Billing managers &lt;strong&gt;won’t&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Be able to create or access repositories in your organization.&lt;/li&gt;
+&lt;li&gt;See private members of your organization.&lt;/li&gt;
+&lt;li&gt;Be seen in the list of organization members.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/1153134/7747339/35f197fa-ffec-11e4-8123-bb546429f5b6.png" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/1153134/7747339/35f197fa-ffec-11e4-8123-bb546429f5b6.png" alt="billing-managers-list" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Leave the payment details to your wonderful finance team, and get back to your code! &lt;/p&gt;
+
+&lt;p&gt;For more information on adding a billing manager to your organization, check out the &lt;a href="https://help.github.com/articles/adding-a-billing-manager-to-your-organization/"&gt;help article&lt;/a&gt;.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars1.githubusercontent.com/u/32535?v=3&amp;s=60"/>
+    <author>
+      <name>shayfrendt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2006</id>
+    <published>2015-05-21T23:56:49Z</published>
+    <updated>2015-05-27T22:31:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2006-codeconf-2015-speakers-workshops-and-hotel-discount"/>
+    <title>CodeConf 2015: Speakers, Workshops and Hotel Discount </title>
+    <category>conferences</category>
+    <content type="html">&lt;iframe width="685" height="385" src="https://www.youtube.com/embed/QEFEdkFaFVk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;We thought you'd like a preview of what we have in store for CodeConf 2015 in June before &lt;a href="http://www.ticketbase.com/events/codeconf-2015"&gt;discounted ticket sales end on May 25th&lt;/a&gt;. We're beyond excited to be welcoming speakers from all over the globe and from companies and organizations of all sizes, who work on every facet of open source technology and represent many different parts of the community. Here's a sneak peak at some of the excellent speakers who will be presenting at CodeConf this year:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eric Levine of Airbnb&lt;/li&gt;
+&lt;li&gt;Casey Rosenthal of Netflix&lt;/li&gt;
+&lt;li&gt;Christine Abernathy of Facebook&lt;/li&gt;
+&lt;li&gt;Corinne Warnshuis of Girl Develop It&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is just a sampling of the amazing line-up. Check out the full preview over at the &lt;a href="http://codeconf.com/"&gt;CodeConf site&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But wait there's more!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reserve a spot in one of our &lt;a href="http://codeconf.com/#workshops"&gt;hands-on workshops&lt;/a&gt; led by expert trainers. Space is limited, so &lt;a href="http://codeconf.com/#workshops"&gt;register early&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Join us the evening before the conference to enjoy the company of the Nashville open source community and grab your badge early. You won't want to miss the food from legendary &lt;a href="http://www.hattieb.com/"&gt;Hattie B's&lt;/a&gt;. &lt;/li&gt;
+&lt;li&gt;Register for a discounted room at the &lt;a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&amp;amp;eventID=13906369"&gt;Gaylord Opryland Hotel&lt;/a&gt;. Shuttles will depart at convenient intervals so you can easily get to and from the conference. By booking a room at the Opryland instead of a downtown hotel, you save about $100. &lt;/li&gt;
+&lt;li&gt;There are still a few sponsorship opportunities left, including our scholarship program. &lt;a href="http://f.cl.ly/items/0V3p3p0D0l3d3s1j2l2r/CodeConf.Prospectus.2015.pdf"&gt;Check out the prospectus&lt;/a&gt; and drop us a line at &lt;a href="mailto:events@github.com"&gt;events@github.com&lt;/a&gt;. &lt;/li&gt;
+&lt;li&gt;Find more details about everything we have in store for you on the new &lt;a href="http://codeconf.com/"&gt;codeconf.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lastly, we'd like to thank everyone who took the time to send us their ideas. We were overwhelmed by the quality and creativity of the 300+ proposals submitted. You are the heart of CodeConf. &lt;/p&gt;
+
+&lt;p&gt;Ticket prices go up to $399 on May 25th and we can't wait to see you in Nashville, &lt;a href="http://www.ticketbase.com/events/codeconf-2015"&gt;so what are you waiting for?&lt;/a&gt;&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars2.githubusercontent.com/u/4154342?v=3&amp;s=60"/>
+    <author>
+      <name>kelseyschimm</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2005</id>
+    <published>2015-05-20T15:24:09Z</published>
+    <updated>2015-05-20T16:36:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2005-celebrate-pride-with-github"/>
+    <title>Celebrate Pride with GitHub</title>
+    <category>general</category>
+    <content type="html">&lt;p&gt;Pride week is coming early to GitHub!  We're throwing two LGBTQ-focused events on Tuesday June 2nd and Wednesday June 3rd, and will also be launching our 2015 Pridetocat shirt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Patchwork&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tuesday June 2nd&lt;/li&gt;
+&lt;li&gt;6:30pm-9:30pm&lt;/li&gt;
+&lt;li&gt;GitHub HQ, 88 Colin P. Kelly Jr. St, San Francisco&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Join us for a special LGBTQ edition of &lt;a href="https://patchwork.github.io/"&gt;Patchwork&lt;/a&gt;! No coding experience is needed to participate in this free hands-on workshop with support and talks from GitHubbers and Teagan Widmer from &lt;a href="http://www.refugerestrooms.org"&gt;Refuge Restrooms&lt;/a&gt;. All LGBTQ folks welcome.&lt;/p&gt;
+
+&lt;p&gt;Register yourself &lt;a href="https://ti.to/github-events/patchwork-sf-pride"&gt;here&lt;/a&gt;, or &lt;a href="https://patchwork.github.io"&gt;learn more&lt;/a&gt; about our Patchwork events.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pride Celebration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wednesday June 3rd&lt;/li&gt;
+&lt;li&gt;6:00pm-9:00pm&lt;/li&gt;
+&lt;li&gt;GitHub HQ, 88 Colin P. Kelly Jr. St, San Francisco&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We're hosting a celebration of the great things happening in the LGBTQ tech community! Celebrate Pride with old friends, make new ones, and learn about some amazing initiatives from organizations like &lt;a href="http://www.transhack.org"&gt;Trans*H4CK&lt;/a&gt;, &lt;a href="http://lesbianswhotech.org"&gt;Lesbians Who Tech&lt;/a&gt;, &lt;a href="http://mymaven.org"&gt;Maven&lt;/a&gt;, &lt;a href="http://gaymerx.com"&gt;GaymerX&lt;/a&gt;, and &lt;a href="https://www.ostem.org"&gt;oSTEM&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;We will also be launching our 2015 Pridetocat shirts, which will be available on site, with all proceeds going to Trans*H4CK, Lesbians Who Tech, and Maven.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://ti.to/github-events/github-pride-celebration"&gt;Register now&lt;/a&gt; to attend! Open to all LGBTQ-identified folks and allies.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars3.githubusercontent.com/u/2394243?v=3&amp;s=60"/>
+    <author>
+      <name>ciaramcguire</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2002</id>
+    <published>2015-05-20T14:22:41Z</published>
+    <updated>2015-05-20T22:02:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2002-github-enterprise-now-on-aws-govcloud"/>
+    <title>GitHub Enterprise, now on AWS GovCloud</title>
+    <category>ship</category>
+    <content type="html">&lt;p&gt;GitHub is used by government agencies to collaborate on all sorts of interesting things, from &lt;a href="https://github.com/ngageoint/geoq"&gt;software that aids first responders&lt;/a&gt; to &lt;a href="https://management.cio.gov/"&gt;White House policy&lt;/a&gt;, but sometimes agencies require a level of assurance that can only be afforded by a platform running on their own infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Starting with version 2.2.2, released yesterday, AMIs for &lt;a href="https://enterprise.github.com"&gt;GitHub Enterprise&lt;/a&gt;, GitHub's self-hosted offering, are available in the &lt;a href="http://aws.amazon.com/govcloud-us/"&gt;AWS GovCloud (US) region&lt;/a&gt;, allowing US customers with specific regulatory requirements to run GitHub Enterprise in a federally compliant cloud environment.&lt;/p&gt;
+
+&lt;h3&gt;What is GovCloud?&lt;/h3&gt;
+
+&lt;p&gt;GovCloud is an isolated Amazon Web Services environment used by US government agencies at the federal, state, and local levels, along with contractors, researchers, educational institutions, and other US customers.&lt;/p&gt;
+
+&lt;p&gt;In terms of boxes checked, GovCloud has received a federal authority to operate (ATO), and conforms with U.S. International Traffic in Arms Regulations (ITAR) restrictions, Federal Risk and Authorization Management Program (FedRAMP) requirements, and Department of Defense (DoD) Cloud Security Model (CSM) Levels 3-5.&lt;/p&gt;
+
+&lt;h3&gt;Getting started&lt;/h3&gt;
+
+&lt;p&gt;You can begin using GitHub Enterprise in GovCloud today by &lt;a href="https://enterprise.github.com/trial"&gt;requesting a free, 45-day trial&lt;/a&gt;, and customers that are already using GitHub Enterprise can migrate from other GitHub Enterprise deployment platforms to GovCloud by &lt;a href="https://help.github.com/enterprise/2.2/admin/guides/installation/migrating-to-a-different-platform-or-from-github-enterprise-11-10-34x/"&gt;following these instructions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about using GitHub in GovCloud, or GitHub + Government in general, please feel free to reach out to &lt;a href="mailto:government@github.com"&gt;government@github.com&lt;/a&gt; at any time — we'd love to hear from you.&lt;/p&gt;
+
+&lt;p&gt;Happy (compliant) collaborating!&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars1.githubusercontent.com/u/282759?v=3&amp;s=60"/>
+    <author>
+      <name>benbalter</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2004</id>
+    <published>2015-05-19T16:56:44Z</published>
+    <updated>2015-05-19T16:56:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2004-new-atom-shirt-in-the-shop"/>
+    <title>New Atom Shirt in the Shop</title>
+    <category>general</category>
+    <content type="html">&lt;p&gt;Prepare yourself for the future with the new &lt;a href="http://github.myshopify.com/products/atom-shirt"&gt;Atom shirt&lt;/a&gt; and &lt;a href="http://github.myshopify.com/products/atom-coasters"&gt;Atom Coasters&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://github.myshopify.com/products/atom-shirt"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/69169/7661190/60a6a044-fb05-11e4-8674-bf31d9f8b66f.jpg" alt="Atom Shirt" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://github.myshopify.com/products/atom-coasters"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/69169/7662714/ed9c25a0-fb14-11e4-8a04-4036537be4d7.jpg" alt="Atom Coasters" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Available in the &lt;a href="http://github.myshopify.com/"&gt;GitHub Shop&lt;/a&gt;&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/69169?v=3&amp;s=60"/>
+    <author>
+      <name>benogle</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2003</id>
+    <published>2015-05-19T14:58:41Z</published>
+    <updated>2015-05-19T14:58:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2003-the-github-engineering-blog"/>
+    <title>The GitHub Engineering Blog</title>
+    <category>engineering</category>
+    <content type="html">&lt;p&gt;We are happy to introduce GitHub's &lt;a href="http://githubengineering.com"&gt;Engineering Blog&lt;/a&gt; to the world. Starting today, you can read details about our infrastructure, learn about our development practices, and hear about the knowledge we've gained while running the world's largest code collaboration platform.&lt;/p&gt;
+
+&lt;p&gt;You can also get updates by following our Engineering Twitter account &lt;a href="https://twitter.com/githubeng"&gt;@GitHubEng&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Happy reading!&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars2.githubusercontent.com/u/1155781?v=3&amp;s=60"/>
+    <author>
+      <name>samlambert</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2001</id>
+    <published>2015-05-12T17:48:37Z</published>
+    <updated>2015-05-12T17:48:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2001-git-merge-2015-session-videos-now-available"/>
+    <title>Git Merge 2015: Session Videos Now Available </title>
+    <category>conferences</category>
+    <content type="html">&lt;p&gt;&lt;a href="https://cloud.githubusercontent.com/assets/4154342/7592769/2249c484-f88a-11e4-8003-062c95757f19.jpg" target="_blank"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/4154342/7592769/2249c484-f88a-11e4-8003-062c95757f19.jpg" alt="gitmerge" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On April 8-9, Git Merge returned to Europe, this time to La Gaite Lyrique in Paris. Over 200 people attended to celebrate ten years of Git, and with your help we raised over $15,000 in ticket sales, which was then donated entirely to the &lt;a href="https://sfconservancy.org/"&gt;Software Freedom Conservancy&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Head over to &lt;a href="http://git-merge.com/"&gt;git-merge.com&lt;/a&gt; to check out recorded sessions from expert speakers representing Google, Microsoft, SAP, Twitter, GitHub, Atlassian, and Amazon. These excellent talks focus on how teams use Git, as well as the implementation challenges of large Git deployments. &lt;/p&gt;
+
+&lt;p&gt;Thanks to everyone who attended!  Make sure to follow &lt;a href="https://twitter.com/github"&gt;@github on Twitter&lt;/a&gt; for announcements about Git Merge 2016.&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars2.githubusercontent.com/u/4154342?v=3&amp;s=60"/>
+    <author>
+      <name>kelseyschimm</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/2000</id>
+    <published>2015-05-12T17:00:03Z</published>
+    <updated>2015-05-12T17:00:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/blog/2000-new-octicons-shirt-in-the-shop"/>
+    <title>New Octicons Shirt in the Shop</title>
+    <category>general</category>
+    <content type="html">&lt;p&gt;We love all the awesome little Octicons. Now you can wear Octicons...tons of Octicons!  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://github.myshopify.com/"&gt;&lt;img src="https://cloud.githubusercontent.com/assets/5945961/7591981/c4c43b0e-f885-11e4-98c3-0727e4f9397f.jpg" alt="Octicons Shirts" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Available in the &lt;a href="http://github.myshopify.com/products/octicons-shirt"&gt;GitHub Shop&lt;/a&gt;&lt;/p&gt;</content>
+    <media:thumbnail url="https://avatars0.githubusercontent.com/u/5945961?v=3&amp;s=60"/>
+    <author>
+      <name>bfire</name>
+    </author>
+  </entry>
+</feed>
